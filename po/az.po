@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Azerbaijani\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} tapılmadı."
+
+msgid "Only .desktop files are supported."
+msgstr "Yalnız .desktop faylları dəstəklənir."
+
+msgid "{} is already on the desktop."
+msgstr "{} artıq iş masasındadır."
+
+msgid "Copy error: {}"
+msgstr "Kopyalama xətası: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Qısayol yaratma xətası: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Tətbiq adı boş ola bilməz."
+
+msgid "Execution command cannot be empty."
+msgstr "İcra əmri boş ola bilməz."
+
+msgid "Creation error: {}"
+msgstr "Yaradılma xətası: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} masaüstündə tapılmadı."
+
+msgid "{} removed from desktop."
+msgstr "{} iş masasından silindi."
+
+msgid "Removal error: {}"
+msgstr "Silinmə xətası: {}"
+
+msgid "Remove from Desktop"
+msgstr "İş masasından silin"
+
+msgid "Remove desktop shortcut"
+msgstr "İş masası qısayolunu silin"
+
+msgid "Add to Desktop"
+msgstr "Masaüstünə əlavə et"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Qısayol olaraq masaüstünə əlavə edin"
+
+msgid "Added to Desktop"
+msgstr "Masaüstünə əlavə edildi"
+
+msgid "applications added to desktop."
+msgstr "proqramlar masaüstünə əlavə edildi."
+
+msgid "Application added to desktop."
+msgstr "Proqram masaüstünə əlavə edildi."
+
+msgid "Warning"
+msgstr "Xəbərdarlıq"
+
+msgid "Removed from Desktop"
+msgstr "İş masasından silindi"
+
+msgid "Shortcut removed from desktop."
+msgstr "Qısayol masaüstündən silindi."
+

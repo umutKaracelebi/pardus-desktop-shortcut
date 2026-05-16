@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Umut Karacelebi <umut@pardus.org.tr>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add to Desktop"
+msgstr "Zum Schreibtisch hinzufügen"
+
+msgid "Remove from Desktop"
+msgstr "Vom Schreibtisch entfernen"
+
+msgid "Add this application to desktop as a shortcut"
+msgstr "Diese Anwendung als Verknüpfung zum Schreibtisch hinzufügen"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Als Verknüpfung zum Schreibtisch hinzufügen"
+
+msgid "Remove desktop shortcut"
+msgstr "Schreibtisch-Verknüpfung entfernen"
+
+msgid "Added to Desktop"
+msgstr "Zum Schreibtisch hinzugefügt"
+
+msgid "applications added to desktop."
+msgstr "Anwendungen zum Schreibtisch hinzugefügt."
+
+msgid "Application added to desktop."
+msgstr "Anwendung zum Schreibtisch hinzugefügt."
+
+msgid "Warning"
+msgstr "Warnung"
+
+msgid "Removed from Desktop"
+msgstr "Vom Schreibtisch entfernt"
+
+msgid "Shortcut removed from desktop."
+msgstr "Verknüpfung vom Schreibtisch entfernt."
+
+msgid "{} not found."
+msgstr "{} nicht gefunden."
+
+msgid "Only .desktop files are supported."
+msgstr "Nur .desktop-Dateien werden unterstützt."
+
+msgid "{} is already on the desktop."
+msgstr "{} ist bereits auf dem Schreibtisch."
+
+msgid "Copy error: {}"
+msgstr "Kopierfehler: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Fehler bei der Verknüpfungserstellung: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Anwendungsname darf nicht leer sein."
+
+msgid "Execution command cannot be empty."
+msgstr "Ausführungsbefehl darf nicht leer sein."
+
+msgid "Creation error: {}"
+msgstr "Erstellungsfehler: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} wurde nicht auf dem Schreibtisch gefunden."
+
+msgid "{} removed from desktop."
+msgstr "{} vom Schreibtisch entfernt."
+
+msgid "Removal error: {}"
+msgstr "Entfernungsfehler: {}"
+
+msgid "Pardus Desktop Shortcut"
+msgstr "Pardus Desktop-Verknüpfung"
+
+msgid "Error: "
+msgstr "Fehler: "
+
+msgid "This application is already on the desktop."
+msgstr "Diese Anwendung ist bereits auf dem Schreibtisch."

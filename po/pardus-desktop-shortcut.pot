@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:15+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/desktop_shortcut.py:117 src/desktop_shortcut.py:158
+msgid "{} not found."
+msgstr ""
+
+#: src/desktop_shortcut.py:120
+msgid "Only .desktop files are supported."
+msgstr ""
+
+#: src/desktop_shortcut.py:126 src/desktop_shortcut.py:165
+#: src/desktop_shortcut.py:216
+msgid "{} is already on the desktop."
+msgstr ""
+
+#: src/desktop_shortcut.py:141
+msgid "Copy error: {}"
+msgstr ""
+
+#: src/desktop_shortcut.py:181
+msgid "Shortcut creation error: {}"
+msgstr ""
+
+#: src/desktop_shortcut.py:205
+msgid "Application name cannot be empty."
+msgstr ""
+
+#: src/desktop_shortcut.py:208
+msgid "Execution command cannot be empty."
+msgstr ""
+
+#: src/desktop_shortcut.py:248
+msgid "Creation error: {}"
+msgstr ""
+
+#: src/desktop_shortcut.py:365
+msgid "{} was not found on the desktop."
+msgstr ""
+
+#: src/desktop_shortcut.py:369
+msgid "{} removed from desktop."
+msgstr ""
+
+#: src/desktop_shortcut.py:371
+msgid "Removal error: {}"
+msgstr ""
+
+#: nautilus/pardus-desktop-shortcut.py:89
+msgid "Remove from Desktop"
+msgstr ""
+
+#: nautilus/pardus-desktop-shortcut.py:90
+msgid "Remove desktop shortcut"
+msgstr ""
+
+#: nautilus/pardus-desktop-shortcut.py:99
+msgid "Add to Desktop"
+msgstr ""
+
+#: nautilus/pardus-desktop-shortcut.py:100
+msgid "Add to desktop as a shortcut"
+msgstr ""
+
+#: nautilus/pardus-desktop-shortcut.py:138
+msgid "Added to Desktop"
+msgstr ""
+
+#: nautilus/pardus-desktop-shortcut.py:139
+msgid "applications added to desktop."
+msgstr ""
+
+#: nautilus/pardus-desktop-shortcut.py:141
+msgid "Application added to desktop."
+msgstr ""
+
+#: nautilus/pardus-desktop-shortcut.py:145
+msgid "Warning"
+msgstr ""
+
+#: nautilus/pardus-desktop-shortcut.py:162
+msgid "Removed from Desktop"
+msgstr ""
+
+#: nautilus/pardus-desktop-shortcut.py:163
+msgid "Shortcut removed from desktop."
+msgstr ""

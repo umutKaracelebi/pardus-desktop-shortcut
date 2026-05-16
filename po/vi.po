@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} không tìm thấy."
+
+msgid "Only .desktop files are supported."
+msgstr "Chỉ hỗ trợ các tệp .desktop."
+
+msgid "{} is already on the desktop."
+msgstr "{} đã có trên máy tính để bàn."
+
+msgid "Copy error: {}"
+msgstr "Lỗi sao chép: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Lỗi tạo lối tắt: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Tên ứng dụng không được để trống."
+
+msgid "Execution command cannot be empty."
+msgstr "Lệnh thực thi không được để trống."
+
+msgid "Creation error: {}"
+msgstr "Lỗi tạo: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "Không tìm thấy {} trên màn hình."
+
+msgid "{} removed from desktop."
+msgstr "{} đã bị xóa khỏi máy tính để bàn."
+
+msgid "Removal error: {}"
+msgstr "Lỗi xóa: {}"
+
+msgid "Remove from Desktop"
+msgstr "Xóa khỏi màn hình"
+
+msgid "Remove desktop shortcut"
+msgstr "Xóa lối tắt trên màn hình"
+
+msgid "Add to Desktop"
+msgstr "Thêm vào máy tính để bàn"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Thêm vào máy tính để bàn dưới dạng lối tắt"
+
+msgid "Added to Desktop"
+msgstr "Đã thêm vào máy tính để bàn"
+
+msgid "applications added to desktop."
+msgstr "các ứng dụng được thêm vào máy tính để bàn."
+
+msgid "Application added to desktop."
+msgstr "Ứng dụng được thêm vào máy tính để bàn."
+
+msgid "Warning"
+msgstr "Cảnh báo"
+
+msgid "Removed from Desktop"
+msgstr "Đã xóa khỏi màn hình"
+
+msgid "Shortcut removed from desktop."
+msgstr "Đã xóa lối tắt khỏi màn hình."
+

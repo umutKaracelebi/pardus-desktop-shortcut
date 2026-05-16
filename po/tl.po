@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Filipino\n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} hindi nahanap."
+
+msgid "Only .desktop files are supported."
+msgstr "Mga .desktop na file lang ang sinusuportahan."
+
+msgid "{} is already on the desktop."
+msgstr "Nasa desktop na ang {}."
+
+msgid "Copy error: {}"
+msgstr "Error sa pagkopya: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Error sa paggawa ng shortcut: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Hindi maaaring walang laman ang pangalan ng application."
+
+msgid "Execution command cannot be empty."
+msgstr "Ang utos ng pagpapatupad ay hindi maaaring walang laman."
+
+msgid "Creation error: {}"
+msgstr "Error sa paglikha: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "Hindi nakita ang {} sa desktop."
+
+msgid "{} removed from desktop."
+msgstr "Inalis ang {} mula sa desktop."
+
+msgid "Removal error: {}"
+msgstr "Error sa pag-alis: {}"
+
+msgid "Remove from Desktop"
+msgstr "Alisin sa Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Alisin ang desktop shortcut"
+
+msgid "Add to Desktop"
+msgstr "Idagdag sa Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Idagdag sa desktop bilang isang shortcut"
+
+msgid "Added to Desktop"
+msgstr "Idinagdag sa Desktop"
+
+msgid "applications added to desktop."
+msgstr "mga application na idinagdag sa desktop."
+
+msgid "Application added to desktop."
+msgstr "Naidagdag ang application sa desktop."
+
+msgid "Warning"
+msgstr "Babala"
+
+msgid "Removed from Desktop"
+msgstr "Inalis sa Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Inalis ang shortcut sa desktop."
+

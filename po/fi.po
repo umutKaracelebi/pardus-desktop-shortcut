@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Finnish\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ei löytynyt."
+
+msgid "Only .desktop files are supported."
+msgstr "Vain .desktop-tiedostoja tuetaan."
+
+msgid "{} is already on the desktop."
+msgstr "{} on jo työpöydällä."
+
+msgid "Copy error: {}"
+msgstr "Kopiointivirhe: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Pikakuvakkeen luontivirhe: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Sovelluksen nimi ei voi olla tyhjä."
+
+msgid "Execution command cannot be empty."
+msgstr "Suorituskomento ei voi olla tyhjä."
+
+msgid "Creation error: {}"
+msgstr "Luontivirhe: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ei löytynyt työpöydältä."
+
+msgid "{} removed from desktop."
+msgstr "{} poistettu työpöydältä."
+
+msgid "Removal error: {}"
+msgstr "Poistovirhe: {}"
+
+msgid "Remove from Desktop"
+msgstr "Poista työpöydältä"
+
+msgid "Remove desktop shortcut"
+msgstr "Poista työpöydän pikakuvake"
+
+msgid "Add to Desktop"
+msgstr "Lisää työpöydälle"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Lisää työpöydälle pikakuvakkeena"
+
+msgid "Added to Desktop"
+msgstr "Lisätty työpöydälle"
+
+msgid "applications added to desktop."
+msgstr "työpöydälle lisätyt sovellukset."
+
+msgid "Application added to desktop."
+msgstr "Sovellus lisätty työpöydälle."
+
+msgid "Warning"
+msgstr "Varoitus"
+
+msgid "Removed from Desktop"
+msgstr "Poistettu työpöydältä"
+
+msgid "Shortcut removed from desktop."
+msgstr "Pikakuvake poistettu työpöydältä."
+

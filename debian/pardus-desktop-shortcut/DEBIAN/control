@@ -1,0 +1,19 @@
+Package: pardus-desktop-shortcut
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Umut Karacelebi <umut@pardus.org.tr>
+Installed-Size: 510
+Depends: python3 (>= 3.6), python3-gi, python3-nautilus, gir1.2-nautilus-3.0 | gir1.2-nautilus-4.0, gnome-shell
+Section: utils
+Priority: optional
+Homepage: https://github.com/umutKaracelebi/pardus-desktop-shortcut
+Description: Pardus Masaüstüne Kısayol Ekleme Aracı
+ GNOME masaüstünde uygulamaları masaüstüne kolayca eklemeyi sağlar.
+ .
+ Özellikler:
+  - Nautilus dosya yöneticisinde .desktop dosyalarına sağ tıklayarak
+    "Masaüstüne Ekle" seçeneği
+  - GNOME uygulama menüsünde (Activities) sağ tıklayarak
+    "Masaüstüne Ekle" seçeneği
+  - Komut satırı aracı (pardus-desktop-shortcut)
+  - Otomatik "Allow Launching" (güvenilir olarak işaretleme)

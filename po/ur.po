@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Urdu\n"
+"Language: ur\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} نہیں ملا۔"
+
+msgid "Only .desktop files are supported."
+msgstr "صرف ڈیسک ٹاپ فائلیں تعاون یافتہ ہیں۔"
+
+msgid "{} is already on the desktop."
+msgstr "{} پہلے سے ہی ڈیسک ٹاپ پر ہے۔"
+
+msgid "Copy error: {}"
+msgstr "کاپی کی خرابی: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "شارٹ کٹ تخلیق کی خرابی: {}"
+
+msgid "Application name cannot be empty."
+msgstr "درخواست کا نام خالی نہیں ہو سکتا۔"
+
+msgid "Execution command cannot be empty."
+msgstr "ایگزیکیوشن کمانڈ خالی نہیں ہو سکتی۔"
+
+msgid "Creation error: {}"
+msgstr "تخلیق کی خرابی: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "ڈیسک ٹاپ پر {} نہیں ملا۔"
+
+msgid "{} removed from desktop."
+msgstr "{} ڈیسک ٹاپ سے ہٹا دیا گیا۔"
+
+msgid "Removal error: {}"
+msgstr "ہٹانے کی غلطی: {}"
+
+msgid "Remove from Desktop"
+msgstr "ڈیسک ٹاپ سے ہٹا دیں۔"
+
+msgid "Remove desktop shortcut"
+msgstr "ڈیسک ٹاپ شارٹ کٹ کو ہٹا دیں۔"
+
+msgid "Add to Desktop"
+msgstr "ڈیسک ٹاپ میں شامل کریں۔"
+
+msgid "Add to desktop as a shortcut"
+msgstr "شارٹ کٹ کے طور پر ڈیسک ٹاپ میں شامل کریں۔"
+
+msgid "Added to Desktop"
+msgstr "ڈیسک ٹاپ میں شامل کیا گیا۔"
+
+msgid "applications added to desktop."
+msgstr "ڈیسک ٹاپ میں ایپلی کیشنز شامل کی گئیں۔"
+
+msgid "Application added to desktop."
+msgstr "ایپلیکیشن ڈیسک ٹاپ پر شامل کر دی گئی۔"
+
+msgid "Warning"
+msgstr "وارننگ"
+
+msgid "Removed from Desktop"
+msgstr "ڈیسک ٹاپ سے ہٹا دیا گیا۔"
+
+msgid "Shortcut removed from desktop."
+msgstr "ڈیسک ٹاپ سے شارٹ کٹ ہٹا دیا گیا۔"
+

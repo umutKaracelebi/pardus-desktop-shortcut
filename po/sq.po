@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Albanian\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} nuk u gjet."
+
+msgid "Only .desktop files are supported."
+msgstr "Mbështeten vetëm skedarët .desktop."
+
+msgid "{} is already on the desktop."
+msgstr "{} është tashmë në desktop."
+
+msgid "Copy error: {}"
+msgstr "Gabim kopjimi: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Gabim në krijimin e shkurtoreve: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Emri i aplikacionit nuk mund të jetë bosh."
+
+msgid "Execution command cannot be empty."
+msgstr "Komanda e ekzekutimit nuk mund të jetë bosh."
+
+msgid "Creation error: {}"
+msgstr "Gabim në krijimin: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} nuk u gjet në desktop."
+
+msgid "{} removed from desktop."
+msgstr "{} u hoq nga desktopi."
+
+msgid "Removal error: {}"
+msgstr "Gabim i heqjes: {}"
+
+msgid "Remove from Desktop"
+msgstr "Hiq nga desktopi"
+
+msgid "Remove desktop shortcut"
+msgstr "Hiq shkurtoren e desktopit"
+
+msgid "Add to Desktop"
+msgstr "Shto në Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Shto në desktop si shkurtore"
+
+msgid "Added to Desktop"
+msgstr "Shtuar në Desktop"
+
+msgid "applications added to desktop."
+msgstr "aplikacionet e shtuara në desktop."
+
+msgid "Application added to desktop."
+msgstr "Aplikacioni u shtua në desktop."
+
+msgid "Warning"
+msgstr "Paralajmërim"
+
+msgid "Removed from Desktop"
+msgstr "U hoq nga desktopi"
+
+msgid "Shortcut removed from desktop."
+msgstr "Shkurtorja u hoq nga desktopi."
+

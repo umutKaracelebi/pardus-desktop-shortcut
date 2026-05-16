@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Khmer\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} រកមិនឃើញ។"
+
+msgid "Only .desktop files are supported."
+msgstr "មានតែឯកសារ .desktop ប៉ុណ្ណោះដែលត្រូវបានគាំទ្រ។"
+
+msgid "{} is already on the desktop."
+msgstr "{} មាននៅលើកុំព្យូទ័ររួចហើយ។"
+
+msgid "Copy error: {}"
+msgstr "កំហុសក្នុងការចម្លង៖ {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "កំហុសក្នុងការបង្កើតផ្លូវកាត់៖ {}"
+
+msgid "Application name cannot be empty."
+msgstr "ឈ្មោះកម្មវិធីមិនអាចទទេបានទេ។"
+
+msgid "Execution command cannot be empty."
+msgstr "ពាក្យបញ្ជាប្រតិបត្តិមិនអាចទទេបានទេ។"
+
+msgid "Creation error: {}"
+msgstr "កំហុសក្នុងការបង្កើត៖ {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} រកមិនឃើញនៅលើផ្ទៃតុ។"
+
+msgid "{} removed from desktop."
+msgstr "{} បានដកចេញពីកុំព្យូទ័រ។"
+
+msgid "Removal error: {}"
+msgstr "កំហុសក្នុងការដកយកចេញ៖ {}"
+
+msgid "Remove from Desktop"
+msgstr "លុបចេញពីកុំព្យូទ័រ"
+
+msgid "Remove desktop shortcut"
+msgstr "យកផ្លូវកាត់កុំព្យូទ័រចេញ"
+
+msgid "Add to Desktop"
+msgstr "បន្ថែមទៅកុំព្យូទ័រ"
+
+msgid "Add to desktop as a shortcut"
+msgstr "បន្ថែមទៅកុំព្យូទ័រជាផ្លូវកាត់"
+
+msgid "Added to Desktop"
+msgstr "បានបន្ថែមទៅកុំព្យូទ័រ"
+
+msgid "applications added to desktop."
+msgstr "កម្មវិធីត្រូវបានបន្ថែមទៅកុំព្យូទ័រ។"
+
+msgid "Application added to desktop."
+msgstr "កម្មវិធីត្រូវបានបន្ថែមទៅកុំព្យូទ័រ។"
+
+msgid "Warning"
+msgstr "ការព្រមាន"
+
+msgid "Removed from Desktop"
+msgstr "បានលុបចេញពីកុំព្យូទ័រ"
+
+msgid "Shortcut removed from desktop."
+msgstr "បានលុបផ្លូវកាត់ចេញពីកុំព្យូទ័រ។"
+

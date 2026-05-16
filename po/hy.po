@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Armenian\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} չի գտնվել:"
+
+msgid "Only .desktop files are supported."
+msgstr "Աջակցվում են միայն .desktop ֆայլերը:"
+
+msgid "{} is already on the desktop."
+msgstr "{}-ն արդեն աշխատասեղանին է:"
+
+msgid "Copy error: {}"
+msgstr "Պատճենելու սխալ՝ {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Դյուրանցումների ստեղծման սխալ՝ {}"
+
+msgid "Application name cannot be empty."
+msgstr "Հավելվածի անունը չի կարող դատարկ լինել:"
+
+msgid "Execution command cannot be empty."
+msgstr "Կատարման հրամանը չի կարող դատարկ լինել:"
+
+msgid "Creation error: {}"
+msgstr "Ստեղծման սխալ՝ {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{}-ը չի գտնվել աշխատասեղանին:"
+
+msgid "{} removed from desktop."
+msgstr "{}-ը հեռացվել է աշխատասեղանից:"
+
+msgid "Removal error: {}"
+msgstr "Հեռացման սխալ՝ {}"
+
+msgid "Remove from Desktop"
+msgstr "Հեռացնել աշխատասեղանից"
+
+msgid "Remove desktop shortcut"
+msgstr "Հեռացնել աշխատասեղանի դյուրանցումը"
+
+msgid "Add to Desktop"
+msgstr "Ավելացնել աշխատասեղանին"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Ավելացնել աշխատասեղանին որպես դյուրանցում"
+
+msgid "Added to Desktop"
+msgstr "Ավելացվեց աշխատասեղանին"
+
+msgid "applications added to desktop."
+msgstr "հավելվածները ավելացվել են աշխատասեղանին:"
+
+msgid "Application added to desktop."
+msgstr "Հավելվածն ավելացվել է աշխատասեղանին:"
+
+msgid "Warning"
+msgstr "Զգուշացում"
+
+msgid "Removed from Desktop"
+msgstr "Հեռացված է աշխատասեղանից"
+
+msgid "Shortcut removed from desktop."
+msgstr "Դյուրանցումը հեռացվեց աշխատասեղանից:"
+

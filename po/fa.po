@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Persian\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} یافت نشد."
+
+msgid "Only .desktop files are supported."
+msgstr "فقط فایل های دسکتاپ پشتیبانی می شوند."
+
+msgid "{} is already on the desktop."
+msgstr "{} از قبل روی دسکتاپ است."
+
+msgid "Copy error: {}"
+msgstr "خطای کپی: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "خطای ایجاد میانبر: {}"
+
+msgid "Application name cannot be empty."
+msgstr "نام برنامه نمی تواند خالی باشد."
+
+msgid "Execution command cannot be empty."
+msgstr "دستور اجرا نمی تواند خالی باشد."
+
+msgid "Creation error: {}"
+msgstr "خطای ایجاد: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} در دسکتاپ یافت نشد."
+
+msgid "{} removed from desktop."
+msgstr "{} از دسکتاپ حذف شد."
+
+msgid "Removal error: {}"
+msgstr "خطای حذف: {}"
+
+msgid "Remove from Desktop"
+msgstr "حذف از دسکتاپ"
+
+msgid "Remove desktop shortcut"
+msgstr "حذف میانبر دسکتاپ"
+
+msgid "Add to Desktop"
+msgstr "به دسکتاپ اضافه کنید"
+
+msgid "Add to desktop as a shortcut"
+msgstr "به عنوان میانبر به دسکتاپ اضافه کنید"
+
+msgid "Added to Desktop"
+msgstr "به دسکتاپ اضافه شد"
+
+msgid "applications added to desktop."
+msgstr "برنامه های اضافه شده به دسکتاپ"
+
+msgid "Application added to desktop."
+msgstr "برنامه به دسکتاپ اضافه شد"
+
+msgid "Warning"
+msgstr "هشدار"
+
+msgid "Removed from Desktop"
+msgstr "از دسکتاپ حذف شد"
+
+msgid "Shortcut removed from desktop."
+msgstr "میانبر از دسکتاپ حذف شد."
+

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Maltese\n"
+"Language: mt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ma nstabx."
+
+msgid "Only .desktop files are supported."
+msgstr "Il-fajls .desktop biss huma appoġġjati."
+
+msgid "{} is already on the desktop."
+msgstr "{} diġà jinsab fuq id-desktop."
+
+msgid "Copy error: {}"
+msgstr "Żball fil-kopja: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Żball fil-ħolqien ta' shortcut: {}"
+
+msgid "Application name cannot be empty."
+msgstr "L-isem tal-applikazzjoni ma jistax ikun vojt."
+
+msgid "Execution command cannot be empty."
+msgstr "Il-kmand tal-eżekuzzjoni ma jistax ikun vojt."
+
+msgid "Creation error: {}"
+msgstr "Żball fil-ħolqien: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ma nstabx fuq id-desktop."
+
+msgid "{} removed from desktop."
+msgstr "{} imneħħija mid-desktop."
+
+msgid "Removal error: {}"
+msgstr "Żball fit-tneħħija: {}"
+
+msgid "Remove from Desktop"
+msgstr "Neħħi mid-Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Neħħi shortcut tad-desktop"
+
+msgid "Add to Desktop"
+msgstr "Żid mad-Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Żid mad-desktop bħala shortcut"
+
+msgid "Added to Desktop"
+msgstr "Miżjud mad-Desktop"
+
+msgid "applications added to desktop."
+msgstr "applikazzjonijiet miżjuda mad-desktop."
+
+msgid "Application added to desktop."
+msgstr "Applikazzjoni miżjuda mad-desktop."
+
+msgid "Warning"
+msgstr "Twissija"
+
+msgid "Removed from Desktop"
+msgstr "Imneħħija mid-Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Shortcut mneħħija mid-desktop."
+

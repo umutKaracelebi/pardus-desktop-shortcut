@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Lithuanian\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} nerasta."
+
+msgid "Only .desktop files are supported."
+msgstr "Palaikomi tik .desktop failai."
+
+msgid "{} is already on the desktop."
+msgstr "{} jau yra darbalaukyje."
+
+msgid "Copy error: {}"
+msgstr "Kopijavimo klaida: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Spartaus klavišo kūrimo klaida: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Programos pavadinimo laukas negali būti tuščias."
+
+msgid "Execution command cannot be empty."
+msgstr "Vykdymo komandos laukas negali būti tuščias."
+
+msgid "Creation error: {}"
+msgstr "Kūrimo klaida: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} darbalaukyje nerasta."
+
+msgid "{} removed from desktop."
+msgstr "{} pašalinta iš darbalaukio."
+
+msgid "Removal error: {}"
+msgstr "Pašalinimo klaida: {}"
+
+msgid "Remove from Desktop"
+msgstr "Pašalinti iš darbalaukio"
+
+msgid "Remove desktop shortcut"
+msgstr "Pašalinti darbalaukio nuorodą"
+
+msgid "Add to Desktop"
+msgstr "Pridėti prie darbalaukio"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Pridėti prie darbalaukio kaip nuorodą"
+
+msgid "Added to Desktop"
+msgstr "Pridėta prie darbalaukio"
+
+msgid "applications added to desktop."
+msgstr "prie darbalaukio pridėtos programos."
+
+msgid "Application added to desktop."
+msgstr "Programa pridėta prie darbalaukio."
+
+msgid "Warning"
+msgstr "Įspėjimas"
+
+msgid "Removed from Desktop"
+msgstr "Pašalinta iš darbalaukio"
+
+msgid "Shortcut removed from desktop."
+msgstr "Spartusis klavišas pašalintas iš darbalaukio."
+

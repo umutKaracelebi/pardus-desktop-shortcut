@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} 見つかりません。"
+
+msgid "Only .desktop files are supported."
+msgstr ".desktop ファイルのみがサポートされます。"
+
+msgid "{} is already on the desktop."
+msgstr "{} はすでにデスクトップ上にあります。"
+
+msgid "Copy error: {}"
+msgstr "コピーエラー: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "ショートカット作成エラー: {}"
+
+msgid "Application name cannot be empty."
+msgstr "アプリケーション名を空にすることはできません。"
+
+msgid "Execution command cannot be empty."
+msgstr "実行コマンドを空にすることはできません。"
+
+msgid "Creation error: {}"
+msgstr "作成エラー: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} がデスクトップ上に見つかりませんでした。"
+
+msgid "{} removed from desktop."
+msgstr "{} がデスクトップから削除されました。"
+
+msgid "Removal error: {}"
+msgstr "削除エラー: {}"
+
+msgid "Remove from Desktop"
+msgstr "デスクトップから削除"
+
+msgid "Remove desktop shortcut"
+msgstr "デスクトップのショートカットを削除する"
+
+msgid "Add to Desktop"
+msgstr "デスクトップに追加"
+
+msgid "Add to desktop as a shortcut"
+msgstr "デスクトップにショートカットとして追加"
+
+msgid "Added to Desktop"
+msgstr "デスクトップに追加されました"
+
+msgid "applications added to desktop."
+msgstr "アプリケーションがデスクトップに追加されました。"
+
+msgid "Application added to desktop."
+msgstr "アプリケーションがデスクトップに追加されました。"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Removed from Desktop"
+msgstr "デスクトップから削除されました"
+
+msgid "Shortcut removed from desktop."
+msgstr "デスクトップからショートカットが削除されました。"
+

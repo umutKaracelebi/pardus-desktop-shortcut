@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Dutch\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} niet gevonden."
+
+msgid "Only .desktop files are supported."
+msgstr "Alleen .desktop-bestanden worden ondersteund."
+
+msgid "{} is already on the desktop."
+msgstr "{} staat al op het bureaublad."
+
+msgid "Copy error: {}"
+msgstr "Kopieerfout: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Fout bij het maken van een snelkoppeling: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Applicatienaam mag niet leeg zijn."
+
+msgid "Execution command cannot be empty."
+msgstr "Uitvoeringsopdracht mag niet leeg zijn."
+
+msgid "Creation error: {}"
+msgstr "Aanmaakfout: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} is niet gevonden op het bureaublad."
+
+msgid "{} removed from desktop."
+msgstr "{} verwijderd van het bureaublad."
+
+msgid "Removal error: {}"
+msgstr "Verwijderingsfout: {}"
+
+msgid "Remove from Desktop"
+msgstr "Verwijderen van bureaublad"
+
+msgid "Remove desktop shortcut"
+msgstr "Verwijder de snelkoppeling op het bureaublad"
+
+msgid "Add to Desktop"
+msgstr "Toevoegen aan bureaublad"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Toevoegen aan bureaublad als snelkoppeling"
+
+msgid "Added to Desktop"
+msgstr "Toegevoegd aan bureaublad"
+
+msgid "applications added to desktop."
+msgstr "toepassingen toegevoegd aan het bureaublad."
+
+msgid "Application added to desktop."
+msgstr "Applicatie toegevoegd aan bureaublad."
+
+msgid "Warning"
+msgstr "Waarschuwing"
+
+msgid "Removed from Desktop"
+msgstr "Verwijderd van bureaublad"
+
+msgid "Shortcut removed from desktop."
+msgstr "Snelkoppeling verwijderd van bureaublad."
+

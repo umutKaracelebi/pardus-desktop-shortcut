@@ -1,0 +1,19 @@
+#!/bin/sh
+set -e
+
+if [ "$1" = "configure" ]; then
+    # Nautilus eklentisinin hemen aktif olması için çalışan tüm Nautilus süreçlerini yeniden başlat
+    echo "Nautilus yeniden başlatılıyor..."
+    killall nautilus || true
+
+    # GNOME Shell eklentisini aktif etme denemesi (Aktif oturumu olan kullanıcılar için)
+    for u in $(users | tr ' ' '\n' | sort -u); do
+        if id "$u" >/dev/null 2>&1; then
+            echo "GNOME eklentisi $u kullanıcısı için aktifleştiriliyor..."
+            # Kullanıcının yetkisiyle eklentiyi aktifleştir (hata verirse sessizce geç)
+            su - "$u" -c "gnome-extensions enable pardus-desktop-shortcut@pardus.org.tr" >/dev/null 2>&1 || true
+        fi
+    done
+fi
+
+exit 0

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Sindhi\n"
+"Language: sd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} نه مليو."
+
+msgid "Only .desktop files are supported."
+msgstr "صرف .desktop فائلون سپورٽ آهن."
+
+msgid "{} is already on the desktop."
+msgstr "{} اڳ ۾ ئي ڊيسڪ ٽاپ تي آهي."
+
+msgid "Copy error: {}"
+msgstr "نقل جي غلطي: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "شارٽ کٽ ٺاھڻ جي غلطي: {}"
+
+msgid "Application name cannot be empty."
+msgstr "درخواست جو نالو خالي نه ٿو ٿي سگھي."
+
+msgid "Execution command cannot be empty."
+msgstr "Execution Command خالي نه ٿي سگھي."
+
+msgid "Creation error: {}"
+msgstr "ٺاھڻ جي غلطي: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "ڊيسڪ ٽاپ تي {} نه مليو."
+
+msgid "{} removed from desktop."
+msgstr "{} ڊيسڪ ٽاپ تان هٽايو ويو."
+
+msgid "Removal error: {}"
+msgstr "هٽائڻ جي غلطي: {}"
+
+msgid "Remove from Desktop"
+msgstr "ڊيسڪ ٽاپ تان هٽايو"
+
+msgid "Remove desktop shortcut"
+msgstr "ڊيسڪ ٽاپ شارٽ ڪٽ هٽايو"
+
+msgid "Add to Desktop"
+msgstr "ڊيسڪ ٽاپ ۾ شامل ڪريو"
+
+msgid "Add to desktop as a shortcut"
+msgstr "شارٽ کٽ طور ڊيسڪ ٽاپ تي شامل ڪريو"
+
+msgid "Added to Desktop"
+msgstr "ڊيسڪ ٽاپ ۾ شامل ڪيو ويو"
+
+msgid "applications added to desktop."
+msgstr "ڊيسڪٽاپ ۾ شامل ڪيل ايپليڪيشنون."
+
+msgid "Application added to desktop."
+msgstr "ايپليڪيشن ڊيسڪ ٽاپ تي شامل ڪئي وئي."
+
+msgid "Warning"
+msgstr "ڊيڄاريندڙ"
+
+msgid "Removed from Desktop"
+msgstr "ڊيسڪ ٽاپ تان هٽايو ويو"
+
+msgid "Shortcut removed from desktop."
+msgstr "شارٽ ڪٽ ڊيسڪ ٽاپ تان هٽايو ويو."
+

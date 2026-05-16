@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Macedonian\n"
+"Language: mk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} не е пронајден."
+
+msgid "Only .desktop files are supported."
+msgstr "Поддржани се само .desktop датотеки."
+
+msgid "{} is already on the desktop."
+msgstr "{} е веќе на работната површина."
+
+msgid "Copy error: {}"
+msgstr "Грешка во копирање: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Грешка при креирањето кратенка: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Името на апликацијата не може да биде празно."
+
+msgid "Execution command cannot be empty."
+msgstr "Командата за извршување не може да биде празна."
+
+msgid "Creation error: {}"
+msgstr "Грешка при создавањето: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} не беше пронајден на работната површина."
+
+msgid "{} removed from desktop."
+msgstr "{} е отстранет од работната површина."
+
+msgid "Removal error: {}"
+msgstr "Грешка при отстранување: {}"
+
+msgid "Remove from Desktop"
+msgstr "Отстрани од работната површина"
+
+msgid "Remove desktop shortcut"
+msgstr "Отстранете ја кратенката на работната површина"
+
+msgid "Add to Desktop"
+msgstr "Додај на работната површина"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Додај на работната површина како кратенка"
+
+msgid "Added to Desktop"
+msgstr "Додадено на работната површина"
+
+msgid "applications added to desktop."
+msgstr "апликации додадени на работната површина."
+
+msgid "Application added to desktop."
+msgstr "Апликација додадена на работната површина."
+
+msgid "Warning"
+msgstr "Предупредување"
+
+msgid "Removed from Desktop"
+msgstr "Отстрането од работната површина"
+
+msgid "Shortcut removed from desktop."
+msgstr "Кратенката е отстранета од работната површина."
+

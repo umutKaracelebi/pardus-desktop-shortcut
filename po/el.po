@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Greek\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "Το {} δεν βρέθηκε."
+
+msgid "Only .desktop files are supported."
+msgstr "Υποστηρίζονται μόνο αρχεία .desktop."
+
+msgid "{} is already on the desktop."
+msgstr "Το {} βρίσκεται ήδη στην επιφάνεια εργασίας."
+
+msgid "Copy error: {}"
+msgstr "Σφάλμα αντιγραφής: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Σφάλμα δημιουργίας συντόμευσης: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Το όνομα της εφαρμογής δεν μπορεί να είναι κενό."
+
+msgid "Execution command cannot be empty."
+msgstr "Η εντολή εκτέλεσης δεν μπορεί να είναι κενή."
+
+msgid "Creation error: {}"
+msgstr "Σφάλμα δημιουργίας: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "Το {} δεν βρέθηκε στην επιφάνεια εργασίας."
+
+msgid "{} removed from desktop."
+msgstr "Το {} καταργήθηκε από την επιφάνεια εργασίας."
+
+msgid "Removal error: {}"
+msgstr "Σφάλμα κατάργησης: {}"
+
+msgid "Remove from Desktop"
+msgstr "Κατάργηση από την επιφάνεια εργασίας"
+
+msgid "Remove desktop shortcut"
+msgstr "Κατάργηση συντόμευσης επιφάνειας εργασίας"
+
+msgid "Add to Desktop"
+msgstr "Προσθήκη στην επιφάνεια εργασίας"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Προσθήκη στην επιφάνεια εργασίας ως συντόμευση"
+
+msgid "Added to Desktop"
+msgstr "Προστέθηκε στην επιφάνεια εργασίας"
+
+msgid "applications added to desktop."
+msgstr "εφαρμογές που προστέθηκαν στην επιφάνεια εργασίας."
+
+msgid "Application added to desktop."
+msgstr "Η εφαρμογή προστέθηκε στην επιφάνεια εργασίας."
+
+msgid "Warning"
+msgstr "Προειδοποίηση"
+
+msgid "Removed from Desktop"
+msgstr "Καταργήθηκε από την επιφάνεια εργασίας"
+
+msgid "Shortcut removed from desktop."
+msgstr "Η συντόμευση καταργήθηκε από την επιφάνεια εργασίας."
+

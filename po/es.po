@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Umut Karacelebi <umut@pardus.org.tr>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add to Desktop"
+msgstr "Añadir al escritorio"
+
+msgid "Remove from Desktop"
+msgstr "Quitar del escritorio"
+
+msgid "Add this application to desktop as a shortcut"
+msgstr "Añadir esta aplicación al escritorio como acceso directo"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Añadir al escritorio como acceso directo"
+
+msgid "Remove desktop shortcut"
+msgstr "Quitar acceso directo del escritorio"
+
+msgid "Added to Desktop"
+msgstr "Añadido al escritorio"
+
+msgid "applications added to desktop."
+msgstr "aplicaciones añadidas al escritorio."
+
+msgid "Application added to desktop."
+msgstr "Aplicación añadida al escritorio."
+
+msgid "Warning"
+msgstr "Advertencia"
+
+msgid "Removed from Desktop"
+msgstr "Quitado del escritorio"
+
+msgid "Shortcut removed from desktop."
+msgstr "Acceso directo quitado del escritorio."
+
+msgid "{} not found."
+msgstr "{} no encontrado."
+
+msgid "Only .desktop files are supported."
+msgstr "Solo se admiten archivos .desktop."
+
+msgid "{} is already on the desktop."
+msgstr "{} ya está en el escritorio."
+
+msgid "Copy error: {}"
+msgstr "Error de copia: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Error de creación de acceso directo: {}"
+
+msgid "Application name cannot be empty."
+msgstr "El nombre de la aplicación no puede estar vacío."
+
+msgid "Execution command cannot be empty."
+msgstr "El comando de ejecución no puede estar vacío."
+
+msgid "Creation error: {}"
+msgstr "Error de creación: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} no se encontró en el escritorio."
+
+msgid "{} removed from desktop."
+msgstr "{} quitado del escritorio."
+
+msgid "Removal error: {}"
+msgstr "Error de eliminación: {}"
+
+msgid "Pardus Desktop Shortcut"
+msgstr "Acceso Directo de Pardus"
+
+msgid "Error: "
+msgstr "Error: "
+
+msgid "This application is already on the desktop."
+msgstr "Esta aplicación ya está en el escritorio."

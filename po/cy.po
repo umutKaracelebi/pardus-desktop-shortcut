@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Welsh\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} heb ei ganfod."
+
+msgid "Only .desktop files are supported."
+msgstr "Dim ond ffeiliau .desktop sy'n cael eu cefnogi."
+
+msgid "{} is already on the desktop."
+msgstr "Mae {} ar y bwrdd gwaith yn barod."
+
+msgid "Copy error: {}"
+msgstr "Gwall copïo: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Gwall creu llwybr byr: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Ni all enw'r cais fod yn wag."
+
+msgid "Execution command cannot be empty."
+msgstr "Ni all y gorchymyn gweithredu fod yn wag."
+
+msgid "Creation error: {}"
+msgstr "Gwall creu: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} heb ei ganfod ar y bwrdd gwaith."
+
+msgid "{} removed from desktop."
+msgstr "{} wedi'i dynnu oddi ar y bwrdd gwaith."
+
+msgid "Removal error: {}"
+msgstr "Gwall dileu: {}"
+
+msgid "Remove from Desktop"
+msgstr "Tynnwch o'r Bwrdd Gwaith"
+
+msgid "Remove desktop shortcut"
+msgstr "Dileu llwybr byr bwrdd gwaith"
+
+msgid "Add to Desktop"
+msgstr "Ychwanegu at Benbwrdd"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Ychwanegu at y bwrdd gwaith fel llwybr byr"
+
+msgid "Added to Desktop"
+msgstr "Ychwanegwyd at Benbwrdd"
+
+msgid "applications added to desktop."
+msgstr "cymwysiadau wedi'u hychwanegu at y bwrdd gwaith."
+
+msgid "Application added to desktop."
+msgstr "Cymhwysiad wedi'i ychwanegu at y bwrdd gwaith."
+
+msgid "Warning"
+msgstr "Rhybudd"
+
+msgid "Removed from Desktop"
+msgstr "Wedi'i dynnu o'r Bwrdd Gwaith"
+
+msgid "Shortcut removed from desktop."
+msgstr "Tynnwyd llwybr byr o'r bwrdd gwaith."
+

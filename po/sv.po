@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Swedish\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} hittades inte."
+
+msgid "Only .desktop files are supported."
+msgstr "Endast .desktop-filer stöds."
+
+msgid "{} is already on the desktop."
+msgstr "{} finns redan på skrivbordet."
+
+msgid "Copy error: {}"
+msgstr "Kopieringsfel: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Fel när genväg skapades: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Programnamnet får inte vara tomt."
+
+msgid "Execution command cannot be empty."
+msgstr "Utförandekommandot kan inte vara tomt."
+
+msgid "Creation error: {}"
+msgstr "Skapande fel: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} hittades inte på skrivbordet."
+
+msgid "{} removed from desktop."
+msgstr "{} har tagits bort från skrivbordet."
+
+msgid "Removal error: {}"
+msgstr "Borttagningsfel: {}"
+
+msgid "Remove from Desktop"
+msgstr "Ta bort från skrivbordet"
+
+msgid "Remove desktop shortcut"
+msgstr "Ta bort skrivbordsgenväg"
+
+msgid "Add to Desktop"
+msgstr "Lägg till på skrivbordet"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Lägg till på skrivbordet som en genväg"
+
+msgid "Added to Desktop"
+msgstr "Lades till på skrivbordet"
+
+msgid "applications added to desktop."
+msgstr "applikationer som läggs till på skrivbordet."
+
+msgid "Application added to desktop."
+msgstr "Applikation har lagts till på skrivbordet."
+
+msgid "Warning"
+msgstr "Varning"
+
+msgid "Removed from Desktop"
+msgstr "Borttagen från skrivbordet"
+
+msgid "Shortcut removed from desktop."
+msgstr "Genväg togs bort från skrivbordet."
+

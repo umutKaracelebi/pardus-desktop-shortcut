@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Umut Karacelebi <umutkaracelebi220@gmail.com>\n"
+"Language-Team: Turkish <tr@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add to Desktop"
+msgstr "Masaüstüne Ekle"
+
+msgid "Remove from Desktop"
+msgstr "Masaüstünden Kaldır"
+
+msgid "Add this application to desktop as a shortcut"
+msgstr "Bu uygulamayı masaüstüne kısayol olarak ekle"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Masaüstüne kısayol olarak ekle"
+
+msgid "Remove desktop shortcut"
+msgstr "Masaüstü kısayolunu kaldır"
+
+msgid "Added to Desktop"
+msgstr "Masaüstüne Eklendi"
+
+msgid "applications added to desktop."
+msgstr "uygulama masaüstüne eklendi."
+
+msgid "Application added to desktop."
+msgstr "Uygulama masaüstüne eklendi."
+
+msgid "Warning"
+msgstr "Uyarı"
+
+msgid "Removed from Desktop"
+msgstr "Masaüstünden Kaldırıldı"
+
+msgid "Shortcut removed from desktop."
+msgstr "Kısayol masaüstünden kaldırıldı."
+
+msgid "{} not found."
+msgstr "{} bulunamadı."
+
+msgid "Only .desktop files are supported."
+msgstr "Sadece .desktop dosyaları desteklenmektedir."
+
+msgid "{} is already on the desktop."
+msgstr "{} zaten masaüstünde mevcut."
+
+msgid "Copy error: {}"
+msgstr "Kopyalama hatası: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Kısayol oluşturma hatası: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Uygulama adı boş olamaz."
+
+msgid "Execution command cannot be empty."
+msgstr "Çalıştırılacak komut boş olamaz."
+
+msgid "Creation error: {}"
+msgstr "Oluşturma hatası: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} masaüstünde bulunamadı."
+
+msgid "{} removed from desktop."
+msgstr "{} masaüstünden kaldırıldı."
+
+msgid "Removal error: {}"
+msgstr "Kaldırma hatası: {}"
+
+msgid "Pardus Desktop Shortcut"
+msgstr "Pardus Masaüstü Kısayolu"
+
+msgid "Error: "
+msgstr "Hata: "
+
+msgid "This application is already on the desktop."
+msgstr "Bu uygulama zaten masaüstünde mevcut."

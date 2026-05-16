@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Thai\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "ไม่พบ {}"
+
+msgid "Only .desktop files are supported."
+msgstr "รองรับเฉพาะไฟล์ .desktop เท่านั้น"
+
+msgid "{} is already on the desktop."
+msgstr "{} อยู่บนเดสก์ท็อปแล้ว"
+
+msgid "Copy error: {}"
+msgstr "ข้อผิดพลาดในการคัดลอก: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "ข้อผิดพลาดในการสร้างทางลัด: {}"
+
+msgid "Application name cannot be empty."
+msgstr "ชื่อแอปพลิเคชันต้องไม่เว้นว่าง"
+
+msgid "Execution command cannot be empty."
+msgstr "คำสั่งดำเนินการไม่สามารถเว้นว่างได้"
+
+msgid "Creation error: {}"
+msgstr "ข้อผิดพลาดในการสร้าง: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "ไม่พบ {} บนเดสก์ท็อป"
+
+msgid "{} removed from desktop."
+msgstr "{} ถูกลบออกจากเดสก์ท็อป"
+
+msgid "Removal error: {}"
+msgstr "ข้อผิดพลาดในการลบ: {}"
+
+msgid "Remove from Desktop"
+msgstr "ลบออกจากเดสก์ท็อป"
+
+msgid "Remove desktop shortcut"
+msgstr "ลบทางลัดบนเดสก์ท็อป"
+
+msgid "Add to Desktop"
+msgstr "เพิ่มไปยังเดสก์ท็อป"
+
+msgid "Add to desktop as a shortcut"
+msgstr "เพิ่มไปยังเดสก์ท็อปเป็นทางลัด"
+
+msgid "Added to Desktop"
+msgstr "เพิ่มไปยังเดสก์ท็อปแล้ว"
+
+msgid "applications added to desktop."
+msgstr "แอปพลิเคชันที่เพิ่มลงในเดสก์ท็อป"
+
+msgid "Application added to desktop."
+msgstr "เพิ่มแอปพลิเคชันลงในเดสก์ท็อปแล้ว"
+
+msgid "Warning"
+msgstr "คำเตือน"
+
+msgid "Removed from Desktop"
+msgstr "ลบออกจากเดสก์ท็อปแล้ว"
+
+msgid "Shortcut removed from desktop."
+msgstr "ทางลัดถูกลบออกจากเดสก์ท็อปแล้ว"
+

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Lao\n"
+"Language: lo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "ບໍ່ພົບ {}."
+
+msgid "Only .desktop files are supported."
+msgstr "ຮອງຮັບສະເພາະໄຟລ໌ .desktop ເທົ່ານັ້ນ."
+
+msgid "{} is already on the desktop."
+msgstr "{} ຢູ່ໃນເດັສທັອບແລ້ວ."
+
+msgid "Copy error: {}"
+msgstr "ການສຳເນົາຜິດພາດ: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "ການສ້າງທາງລັດຜິດພາດ: {}"
+
+msgid "Application name cannot be empty."
+msgstr "ຊື່ແອັບພລິເຄຊັນບໍ່ສາມາດຫວ່າງເປົ່າໄດ້."
+
+msgid "Execution command cannot be empty."
+msgstr "ຄຳສັ່ງປະຕິບັດບໍ່ສາມາດຫວ່າງເປົ່າໄດ້."
+
+msgid "Creation error: {}"
+msgstr "ຄວາມຜິດພາດໃນການສ້າງ: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "ບໍ່ພົບ {} ໃນເດັສທັອບ."
+
+msgid "{} removed from desktop."
+msgstr "ລຶບ {} ອອກຈາກເດັສທັອບແລ້ວ."
+
+msgid "Removal error: {}"
+msgstr "ຄວາມຜິດພາດການໂຍກຍ້າຍ: {}"
+
+msgid "Remove from Desktop"
+msgstr "ເອົາອອກຈາກ Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "ເອົາທາງລັດ desktop ອອກ"
+
+msgid "Add to Desktop"
+msgstr "ເພີ່ມໃສ່ Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "ເພີ່ມໃສ່ເດັສທັອບເປັນທາງລັດ"
+
+msgid "Added to Desktop"
+msgstr "ເພີ່ມໃສ່ Desktop ແລ້ວ"
+
+msgid "applications added to desktop."
+msgstr "ເພີ່ມແອັບພລິເຄຊັນໃສ່ desktop ແລ້ວ."
+
+msgid "Application added to desktop."
+msgstr "ເພີ່ມແອັບພລິເຄຊັນໃສ່ເດັສທັອບແລ້ວ."
+
+msgid "Warning"
+msgstr "ຄຳເຕືອນ"
+
+msgid "Removed from Desktop"
+msgstr "ລຶບອອກຈາກເດັສທັອບແລ້ວ"
+
+msgid "Shortcut removed from desktop."
+msgstr "ລຶບທາງລັດອອກຈາກເດັສທັອບແລ້ວ."
+

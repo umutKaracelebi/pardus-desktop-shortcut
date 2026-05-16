@@ -8,5 +8,5 @@ src/pardus-desktop-shortcut-cli usr/bin/
 nautilus/pardus-desktop-shortcut.py usr/share/nautilus-python/extensions/
 
 # GNOME Shell extension
-gnome-shell-extension/extension.js usr/share/gnome-shell/extensions/pardus-desktop-shortcut@pardus.org.tr/
-gnome-shell-extension/metadata.json usr/share/gnome-shell/extensions/pardus-desktop-shortcut@pardus.org.tr/
+gnome-shell-extension/* usr/share/gnome-shell/extensions/pardus-desktop-shortcut@pardus.org.tr/
+build/locale/* usr/share/locale/

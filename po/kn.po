@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Kannada\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ಕಂಡುಬಂದಿಲ್ಲ."
+
+msgid "Only .desktop files are supported."
+msgstr ".desktop ಫೈಲ್‌ಗಳು ಮಾತ್ರ ಬೆಂಬಲಿತವಾಗಿದೆ."
+
+msgid "{} is already on the desktop."
+msgstr "{} ಈಗಾಗಲೇ ಡೆಸ್ಕ್‌ಟಾಪ್‌ನಲ್ಲಿದೆ."
+
+msgid "Copy error: {}"
+msgstr "ನಕಲು ದೋಷ: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "ಶಾರ್ಟ್‌ಕಟ್ ರಚನೆ ದೋಷ: {}"
+
+msgid "Application name cannot be empty."
+msgstr "ಅಪ್ಲಿಕೇಶನ್ ಹೆಸರು ಖಾಲಿ ಇರುವಂತಿಲ್ಲ."
+
+msgid "Execution command cannot be empty."
+msgstr "ಎಕ್ಸಿಕ್ಯೂಶನ್ ಕಮಾಂಡ್ ಖಾಲಿ ಇರುವಂತಿಲ್ಲ."
+
+msgid "Creation error: {}"
+msgstr "ರಚನೆ ದೋಷ: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "ಡೆಸ್ಕ್‌ಟಾಪ್‌ನಲ್ಲಿ {} ಕಂಡುಬಂದಿಲ್ಲ."
+
+msgid "{} removed from desktop."
+msgstr "{} ಡೆಸ್ಕ್‌ಟಾಪ್‌ನಿಂದ ತೆಗೆದುಹಾಕಲಾಗಿದೆ."
+
+msgid "Removal error: {}"
+msgstr "ತೆಗೆದುಹಾಕುವಲ್ಲಿ ದೋಷ: {}"
+
+msgid "Remove from Desktop"
+msgstr "ಡೆಸ್ಕ್‌ಟಾಪ್‌ನಿಂದ ತೆಗೆದುಹಾಕಿ"
+
+msgid "Remove desktop shortcut"
+msgstr "ಡೆಸ್ಕ್‌ಟಾಪ್ ಶಾರ್ಟ್‌ಕಟ್ ತೆಗೆದುಹಾಕಿ"
+
+msgid "Add to Desktop"
+msgstr "ಡೆಸ್ಕ್‌ಟಾಪ್‌ಗೆ ಸೇರಿಸಿ"
+
+msgid "Add to desktop as a shortcut"
+msgstr "ಶಾರ್ಟ್‌ಕಟ್‌ನಂತೆ ಡೆಸ್ಕ್‌ಟಾಪ್‌ಗೆ ಸೇರಿಸಿ"
+
+msgid "Added to Desktop"
+msgstr "ಡೆಸ್ಕ್‌ಟಾಪ್‌ಗೆ ಸೇರಿಸಲಾಗಿದೆ"
+
+msgid "applications added to desktop."
+msgstr "ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಡೆಸ್ಕ್‌ಟಾಪ್‌ಗೆ ಸೇರಿಸಲಾಗಿದೆ."
+
+msgid "Application added to desktop."
+msgstr "ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಡೆಸ್ಕ್‌ಟಾಪ್‌ಗೆ ಸೇರಿಸಲಾಗಿದೆ."
+
+msgid "Warning"
+msgstr "ಎಚ್ಚರಿಕೆ"
+
+msgid "Removed from Desktop"
+msgstr "ಡೆಸ್ಕ್‌ಟಾಪ್‌ನಿಂದ ತೆಗೆದುಹಾಕಲಾಗಿದೆ"
+
+msgid "Shortcut removed from desktop."
+msgstr "ಡೆಸ್ಕ್‌ಟಾಪ್‌ನಿಂದ ಶಾರ್ಟ್‌ಕಟ್ ತೆಗೆದುಹಾಕಲಾಗಿದೆ."
+

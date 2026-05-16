@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Italian\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} non trovato."
+
+msgid "Only .desktop files are supported."
+msgstr "Sono supportati solo i file .desktop."
+
+msgid "{} is already on the desktop."
+msgstr "{} è già sul desktop."
+
+msgid "Copy error: {}"
+msgstr "Errore di copia: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Errore nella creazione del collegamento: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Il nome dell'applicazione non può essere vuoto."
+
+msgid "Execution command cannot be empty."
+msgstr "Il comando di esecuzione non può essere vuoto."
+
+msgid "Creation error: {}"
+msgstr "Errore di creazione: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} non è stato trovato sul desktop."
+
+msgid "{} removed from desktop."
+msgstr "{} rimosso dal desktop."
+
+msgid "Removal error: {}"
+msgstr "Errore di rimozione: {}"
+
+msgid "Remove from Desktop"
+msgstr "Rimuovi dal desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Rimuovi il collegamento sul desktop"
+
+msgid "Add to Desktop"
+msgstr "Aggiungi alla scrivania"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Aggiungi al desktop come collegamento"
+
+msgid "Added to Desktop"
+msgstr "Aggiunto al desktop"
+
+msgid "applications added to desktop."
+msgstr "applicazioni aggiunte al desktop."
+
+msgid "Application added to desktop."
+msgstr "Applicazione aggiunta al desktop."
+
+msgid "Warning"
+msgstr "Avvertimento"
+
+msgid "Removed from Desktop"
+msgstr "Rimosso dal desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Collegamento rimosso dal desktop."
+

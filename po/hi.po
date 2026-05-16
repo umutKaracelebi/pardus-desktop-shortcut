@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Hindi\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} नहीं मिला।"
+
+msgid "Only .desktop files are supported."
+msgstr "केवल .डेस्कटॉप फ़ाइलें समर्थित हैं।"
+
+msgid "{} is already on the desktop."
+msgstr "{} पहले से ही डेस्कटॉप पर है।"
+
+msgid "Copy error: {}"
+msgstr "प्रतिलिपि त्रुटि: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "शॉर्टकट निर्माण त्रुटि: {}"
+
+msgid "Application name cannot be empty."
+msgstr "एप्लिकेशन का नाम खाली नहीं हो सकता."
+
+msgid "Execution command cannot be empty."
+msgstr "निष्पादन आदेश रिक्त नहीं हो सकता."
+
+msgid "Creation error: {}"
+msgstr "निर्माण त्रुटि: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{}डेस्कटॉप पर नहीं मिला."
+
+msgid "{} removed from desktop."
+msgstr "{}डेस्कटॉप से ​​हटा दिया गया."
+
+msgid "Removal error: {}"
+msgstr "हटाने में त्रुटि: {}"
+
+msgid "Remove from Desktop"
+msgstr "डेस्कटॉप से ​​हटाएँ"
+
+msgid "Remove desktop shortcut"
+msgstr "डेस्कटॉप शॉर्टकट हटाएँ"
+
+msgid "Add to Desktop"
+msgstr "डेस्कटॉप पर जोड़ें"
+
+msgid "Add to desktop as a shortcut"
+msgstr "शॉर्टकट के रूप में डेस्कटॉप पर जोड़ें"
+
+msgid "Added to Desktop"
+msgstr "डेस्कटॉप पर जोड़ा गया"
+
+msgid "applications added to desktop."
+msgstr "डेस्कटॉप पर एप्लिकेशन जोड़े गए."
+
+msgid "Application added to desktop."
+msgstr "एप्लिकेशन डेस्कटॉप पर जोड़ा गया."
+
+msgid "Warning"
+msgstr "चेतावनी"
+
+msgid "Removed from Desktop"
+msgstr "डेस्कटॉप से ​​हटा दिया गया"
+
+msgid "Shortcut removed from desktop."
+msgstr "डेस्कटॉप से ​​शॉर्टकट हटा दिया गया."
+

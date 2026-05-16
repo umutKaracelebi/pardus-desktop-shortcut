@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Umut Karacelebi <umut@pardus.org.tr>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add to Desktop"
+msgstr "Добавить на рабочий стол"
+
+msgid "Remove from Desktop"
+msgstr "Удалить с рабочего стола"
+
+msgid "Add this application to desktop as a shortcut"
+msgstr "Добавить это приложение на рабочий стол как ярлык"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Добавить на рабочий стол как ярлык"
+
+msgid "Remove desktop shortcut"
+msgstr "Удалить ярлык с рабочего стола"
+
+msgid "Added to Desktop"
+msgstr "Добавлено на рабочий стол"
+
+msgid "applications added to desktop."
+msgstr "приложения добавлены на рабочий стол."
+
+msgid "Application added to desktop."
+msgstr "Приложение добавлено на рабочий стол."
+
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgid "Removed from Desktop"
+msgstr "Удалено с рабочего стола"
+
+msgid "Shortcut removed from desktop."
+msgstr "Ярлык удален с рабочего стола."
+
+msgid "{} not found."
+msgstr "{} не найдено."
+
+msgid "Only .desktop files are supported."
+msgstr "Поддерживаются только файлы .desktop."
+
+msgid "{} is already on the desktop."
+msgstr "{} уже на рабочем столе."
+
+msgid "Copy error: {}"
+msgstr "Ошибка копирования: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Ошибка создания ярлыка: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Имя приложения не может быть пустым."
+
+msgid "Execution command cannot be empty."
+msgstr "Команда выполнения не может быть пустой."
+
+msgid "Creation error: {}"
+msgstr "Ошибка создания: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} не найдено на рабочем столе."
+
+msgid "{} removed from desktop."
+msgstr "{} удалено с рабочего стола."
+
+msgid "Removal error: {}"
+msgstr "Ошибка удаления: {}"
+
+msgid "Pardus Desktop Shortcut"
+msgstr "Ярлык Pardus на рабочем столе"
+
+msgid "Error: "
+msgstr "Ошибка: "
+
+msgid "This application is already on the desktop."
+msgstr "Это приложение уже на рабочем столе."

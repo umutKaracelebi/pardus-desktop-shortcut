@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Irish\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} gan aimsiú."
+
+msgid "Only .desktop files are supported."
+msgstr "Ní thacaítear ach le comhaid .desktop."
+
+msgid "{} is already on the desktop."
+msgstr "Tá {} ar an deasc cheana féin."
+
+msgid "Copy error: {}"
+msgstr "Earráid chóipeála: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Earráid cruthaithe aicearra: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Ní féidir ainm an fheidhmchláir a bheith folamh."
+
+msgid "Execution command cannot be empty."
+msgstr "Ní féidir leis an ordú feidhmithe a bheith folamh."
+
+msgid "Creation error: {}"
+msgstr "Earráid chruthaithe: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "Níor aimsíodh {} ar an deasc."
+
+msgid "{} removed from desktop."
+msgstr "{} bainte den deasc."
+
+msgid "Removal error: {}"
+msgstr "Earráid bainte: {}"
+
+msgid "Remove from Desktop"
+msgstr "Bain ón Deasc"
+
+msgid "Remove desktop shortcut"
+msgstr "Bain aicearra deisce"
+
+msgid "Add to Desktop"
+msgstr "Cuir leis an Deasc"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Cuir leis an deasc mar aicearra"
+
+msgid "Added to Desktop"
+msgstr "Curtha leis an Deasc"
+
+msgid "applications added to desktop."
+msgstr "feidhmchláir curtha leis an deasc."
+
+msgid "Application added to desktop."
+msgstr "Feidhmchlár curtha leis an deasc."
+
+msgid "Warning"
+msgstr "Rabhadh"
+
+msgid "Removed from Desktop"
+msgstr "Bainte den Deasc"
+
+msgid "Shortcut removed from desktop."
+msgstr "Baineadh an t-aicearra den deasc."
+

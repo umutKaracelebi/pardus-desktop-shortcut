@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Haitian Creole\n"
+"Language: ht\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} pa jwenn."
+
+msgid "Only .desktop files are supported."
+msgstr "Se sèlman .desktop dosye yo sipòte."
+
+msgid "{} is already on the desktop."
+msgstr "{} deja sou Desktop la."
+
+msgid "Copy error: {}"
+msgstr "Erè kopi: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Erè nan kreyasyon chemen kout: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Non aplikasyon an pa kapab vid."
+
+msgid "Execution command cannot be empty."
+msgstr "Kòmand egzekisyon pa ka vid."
+
+msgid "Creation error: {}"
+msgstr "Erè kreyasyon: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "Yo pa jwenn {} sou Desktop la."
+
+msgid "{} removed from desktop."
+msgstr "{} retire nan Desktop."
+
+msgid "Removal error: {}"
+msgstr "Erè retire: {}"
+
+msgid "Remove from Desktop"
+msgstr "Retire nan Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Retire chemen kout Desktop"
+
+msgid "Add to Desktop"
+msgstr "Ajoute sou Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Ajoute sou Desktop kòm yon chemen kout"
+
+msgid "Added to Desktop"
+msgstr "Te ajoute sou Desktop"
+
+msgid "applications added to desktop."
+msgstr "aplikasyon yo ajoute sou Desktop."
+
+msgid "Application added to desktop."
+msgstr "Aplikasyon te ajoute sou Desktop."
+
+msgid "Warning"
+msgstr "Avètisman"
+
+msgid "Removed from Desktop"
+msgstr "Retire nan Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Raccourci retire nan Desktop."
+

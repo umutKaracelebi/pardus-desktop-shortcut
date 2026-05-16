@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Sundanese\n"
+"Language: su\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} henteu kapendak."
+
+msgid "Only .desktop files are supported."
+msgstr "Ngan file .desktop anu dirojong."
+
+msgid "{} is already on the desktop."
+msgstr "{} tos aya dina desktop."
+
+msgid "Copy error: {}"
+msgstr "Kasalahan salinan: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Kasalahan nyieun potong kompas: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Ngaran aplikasi teu tiasa kosong."
+
+msgid "Execution command cannot be empty."
+msgstr "Paréntah palaksanaan teu tiasa kosong."
+
+msgid "Creation error: {}"
+msgstr "Kasalahan nyiptakeun: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} teu kapanggih dina desktop."
+
+msgid "{} removed from desktop."
+msgstr "{} dipiceun tina desktop."
+
+msgid "Removal error: {}"
+msgstr "Kasalahan ngaleupaskeun: {}"
+
+msgid "Remove from Desktop"
+msgstr "Cabut tina Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Hapus potong kompas desktop"
+
+msgid "Add to Desktop"
+msgstr "Tambahkeun ka Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Tambahkeun ka desktop salaku potong kompas"
+
+msgid "Added to Desktop"
+msgstr "Ditambahkeun kana Desktop"
+
+msgid "applications added to desktop."
+msgstr "aplikasi ditambahkeun kana desktop."
+
+msgid "Application added to desktop."
+msgstr "Aplikasi ditambahkeun kana desktop."
+
+msgid "Warning"
+msgstr "Awas"
+
+msgid "Removed from Desktop"
+msgstr "Dipiceun tina Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Potong kompas dihapus tina desktop."
+

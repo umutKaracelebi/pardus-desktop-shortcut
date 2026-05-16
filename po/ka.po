@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Georgian\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ვერ მოიძებნა."
+
+msgid "Only .desktop files are supported."
+msgstr "მხარდაჭერილია მხოლოდ .desktop ფაილები."
+
+msgid "{} is already on the desktop."
+msgstr "{} უკვე დესკტოპზეა."
+
+msgid "Copy error: {}"
+msgstr "კოპირების შეცდომა: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "მალსახმობის შექმნის შეცდომა: {}"
+
+msgid "Application name cannot be empty."
+msgstr "აპლიკაციის სახელი არ შეიძლება იყოს ცარიელი."
+
+msgid "Execution command cannot be empty."
+msgstr "შესრულების ბრძანება არ შეიძლება იყოს ცარიელი."
+
+msgid "Creation error: {}"
+msgstr "შექმნის შეცდომა: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} დესკტოპზე ვერ მოიძებნა."
+
+msgid "{} removed from desktop."
+msgstr "{} წაშლილია დესკტოპიდან."
+
+msgid "Removal error: {}"
+msgstr "წაშლის შეცდომა: {}"
+
+msgid "Remove from Desktop"
+msgstr "დესკტოპიდან წაშლა"
+
+msgid "Remove desktop shortcut"
+msgstr "წაშალეთ დესკტოპის მალსახმობი"
+
+msgid "Add to Desktop"
+msgstr "დესკტოპში დამატება"
+
+msgid "Add to desktop as a shortcut"
+msgstr "დესკტოპზე მალსახმობის სახით დამატება"
+
+msgid "Added to Desktop"
+msgstr "დამატებულია სამუშაო მაგიდაზე"
+
+msgid "applications added to desktop."
+msgstr "დესკტოპზე დამატებული აპლიკაციები."
+
+msgid "Application added to desktop."
+msgstr "აპლიკაცია დამატებულია დესკტოპზე."
+
+msgid "Warning"
+msgstr "გაფრთხილება"
+
+msgid "Removed from Desktop"
+msgstr "წაშლილია დესკტოპიდან"
+
+msgid "Shortcut removed from desktop."
+msgstr "მალსახმობი წაშლილია დესკტოპიდან."
+

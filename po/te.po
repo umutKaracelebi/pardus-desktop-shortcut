@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Telugu\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} కనుగొనబడలేదు."
+
+msgid "Only .desktop files are supported."
+msgstr "డెస్క్‌టాప్ ఫైల్‌లకు మాత్రమే మద్దతు ఉంది."
+
+msgid "{} is already on the desktop."
+msgstr "{} ఇప్పటికే డెస్క్‌టాప్‌లో ఉంది."
+
+msgid "Copy error: {}"
+msgstr "కాపీ లోపం: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "షార్ట్‌కట్ సృష్టి లోపం: {}"
+
+msgid "Application name cannot be empty."
+msgstr "అప్లికేషన్ పేరు ఖాళీగా ఉండకూడదు."
+
+msgid "Execution command cannot be empty."
+msgstr "ఎగ్జిక్యూషన్ కమాండ్ ఖాళీగా ఉండకూడదు."
+
+msgid "Creation error: {}"
+msgstr "సృష్టి లోపం: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "డెస్క్‌టాప్‌లో {} కనుగొనబడలేదు."
+
+msgid "{} removed from desktop."
+msgstr "డెస్క్‌టాప్ నుండి {} తీసివేయబడింది."
+
+msgid "Removal error: {}"
+msgstr "తొలగింపు లోపం: {}"
+
+msgid "Remove from Desktop"
+msgstr "డెస్క్‌టాప్ నుండి తీసివేయండి"
+
+msgid "Remove desktop shortcut"
+msgstr "డెస్క్‌టాప్ సత్వరమార్గాన్ని తీసివేయండి"
+
+msgid "Add to Desktop"
+msgstr "డెస్క్‌టాప్‌కు జోడించండి"
+
+msgid "Add to desktop as a shortcut"
+msgstr "సత్వరమార్గంగా డెస్క్‌టాప్‌కు జోడించండి"
+
+msgid "Added to Desktop"
+msgstr "డెస్క్‌టాప్‌కి జోడించబడింది"
+
+msgid "applications added to desktop."
+msgstr "అప్లికేషన్‌లు డెస్క్‌టాప్‌కు జోడించబడ్డాయి."
+
+msgid "Application added to desktop."
+msgstr "అప్లికేషన్ డెస్క్‌టాప్‌కు జోడించబడింది."
+
+msgid "Warning"
+msgstr "హెచ్చరిక"
+
+msgid "Removed from Desktop"
+msgstr "డెస్క్‌టాప్ నుండి తీసివేయబడింది"
+
+msgid "Shortcut removed from desktop."
+msgstr "డెస్క్‌టాప్ నుండి సత్వరమార్గం తీసివేయబడింది."
+

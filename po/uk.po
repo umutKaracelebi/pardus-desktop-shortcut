@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Ukrainian\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} не знайдено."
+
+msgid "Only .desktop files are supported."
+msgstr "Підтримуються лише файли .desktop."
+
+msgid "{} is already on the desktop."
+msgstr "{} уже на робочому столі."
+
+msgid "Copy error: {}"
+msgstr "Помилка копіювання: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Помилка створення ярлика: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Назва програми не може бути пустою."
+
+msgid "Execution command cannot be empty."
+msgstr "Команда виконання не може бути пустою."
+
+msgid "Creation error: {}"
+msgstr "Помилка створення: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} не знайдено на робочому столі."
+
+msgid "{} removed from desktop."
+msgstr "{} видалено з робочого столу."
+
+msgid "Removal error: {}"
+msgstr "Помилка видалення: {}"
+
+msgid "Remove from Desktop"
+msgstr "Видалити з робочого столу"
+
+msgid "Remove desktop shortcut"
+msgstr "Видалити ярлик на робочому столі"
+
+msgid "Add to Desktop"
+msgstr "Додати на робочий стіл"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Додати на робочий стіл як ярлик"
+
+msgid "Added to Desktop"
+msgstr "Додано на робочий стіл"
+
+msgid "applications added to desktop."
+msgstr "програм, доданих на робочий стіл."
+
+msgid "Application added to desktop."
+msgstr "Додаток додано на робочий стіл."
+
+msgid "Warning"
+msgstr "УВАГА"
+
+msgid "Removed from Desktop"
+msgstr "Видалено з робочого столу"
+
+msgid "Shortcut removed from desktop."
+msgstr "Ярлик видалено з робочого столу."
+

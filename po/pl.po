@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Polish\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "Nie znaleziono {}."
+
+msgid "Only .desktop files are supported."
+msgstr "Obsługiwane są tylko pliki .desktop."
+
+msgid "{} is already on the desktop."
+msgstr "{} jest już na pulpicie."
+
+msgid "Copy error: {}"
+msgstr "Błąd kopiowania: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Błąd tworzenia skrótu: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Nazwa aplikacji nie może być pusta."
+
+msgid "Execution command cannot be empty."
+msgstr "Polecenie wykonania nie może być puste."
+
+msgid "Creation error: {}"
+msgstr "Błąd tworzenia: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "Nie znaleziono pliku {} na pulpicie."
+
+msgid "{} removed from desktop."
+msgstr "{} usunięty z pulpitu."
+
+msgid "Removal error: {}"
+msgstr "Błąd usuwania: {}"
+
+msgid "Remove from Desktop"
+msgstr "Usuń z pulpitu"
+
+msgid "Remove desktop shortcut"
+msgstr "Usuń skrót na pulpicie"
+
+msgid "Add to Desktop"
+msgstr "Dodaj do pulpitu"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Dodaj do pulpitu jako skrót"
+
+msgid "Added to Desktop"
+msgstr "Dodano do pulpitu"
+
+msgid "applications added to desktop."
+msgstr "aplikacje dodane do pulpitu."
+
+msgid "Application added to desktop."
+msgstr "Aplikacja dodana do pulpitu."
+
+msgid "Warning"
+msgstr "Ostrzeżenie"
+
+msgid "Removed from Desktop"
+msgstr "Usunięto z pulpitu"
+
+msgid "Shortcut removed from desktop."
+msgstr "Skrót usunięty z pulpitu."
+

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Uzbek\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} topilmadi."
+
+msgid "Only .desktop files are supported."
+msgstr "Faqat .desktop fayllari qo'llab-quvvatlanadi."
+
+msgid "{} is already on the desktop."
+msgstr "{} allaqachon ish stolida."
+
+msgid "Copy error: {}"
+msgstr "Nusxalash xatosi: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Yorliq yaratish xatosi: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Ilova nomi boʻsh boʻlishi mumkin emas."
+
+msgid "Execution command cannot be empty."
+msgstr "Bajarish buyrug'i bo'sh bo'lishi mumkin emas."
+
+msgid "Creation error: {}"
+msgstr "Yaratish xatosi: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ish stolida topilmadi."
+
+msgid "{} removed from desktop."
+msgstr "{} ish stolidan olib tashlandi."
+
+msgid "Removal error: {}"
+msgstr "Oʻchirish xatosi: {}"
+
+msgid "Remove from Desktop"
+msgstr "Ish stolidan olib tashlang"
+
+msgid "Remove desktop shortcut"
+msgstr "Ish stolidagi yorliqni olib tashlang"
+
+msgid "Add to Desktop"
+msgstr "Ish stoliga qo'shish"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Yorliq sifatida ish stoliga qo'shing"
+
+msgid "Added to Desktop"
+msgstr "Ish stoliga qo'shildi"
+
+msgid "applications added to desktop."
+msgstr "ilovalar ish stoliga qo'shildi."
+
+msgid "Application added to desktop."
+msgstr "Dastur ish stoliga qo'shildi."
+
+msgid "Warning"
+msgstr "Ogohlantirish"
+
+msgid "Removed from Desktop"
+msgstr "Ish stolidan olib tashlandi"
+
+msgid "Shortcut removed from desktop."
+msgstr "Yorliq ish stolidan olib tashlandi."
+

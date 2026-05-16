@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Basque\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ez da aurkitu."
+
+msgid "Only .desktop files are supported."
+msgstr ".desktop fitxategiak bakarrik onartzen dira."
+
+msgid "{} is already on the desktop."
+msgstr "{} mahaigainean dago jada."
+
+msgid "Copy error: {}"
+msgstr "Kopiatzeko errorea: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Lasterbideak sortzeko errorea: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Aplikazioaren izena ezin da hutsik egon."
+
+msgid "Execution command cannot be empty."
+msgstr "Exekuzio komandoa ezin da hutsik egon."
+
+msgid "Creation error: {}"
+msgstr "Sorkuntza-errorea: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ez da aurkitu mahaigainean."
+
+msgid "{} removed from desktop."
+msgstr "{} mahaigainetik kendu da."
+
+msgid "Removal error: {}"
+msgstr "Akatsa kentzean: {}"
+
+msgid "Remove from Desktop"
+msgstr "Kendu mahaigainetik"
+
+msgid "Remove desktop shortcut"
+msgstr "Kendu mahaigaineko lasterbidea"
+
+msgid "Add to Desktop"
+msgstr "Gehitu mahaigainera"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Gehitu mahaigainean lasterbide gisa"
+
+msgid "Added to Desktop"
+msgstr "Mahaigainean gehitu da"
+
+msgid "applications added to desktop."
+msgstr "mahaigainean gehitutako aplikazioak."
+
+msgid "Application added to desktop."
+msgstr "Aplikazioa mahaigainean gehitu da."
+
+msgid "Warning"
+msgstr "Abisua"
+
+msgid "Removed from Desktop"
+msgstr "Mahaigainetik kendu da"
+
+msgid "Shortcut removed from desktop."
+msgstr "Lasterbidea mahaigainetik kendu da."
+

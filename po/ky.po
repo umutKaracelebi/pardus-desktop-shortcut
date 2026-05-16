@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Kyrgyz\n"
+"Language: ky\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} табылган жок."
+
+msgid "Only .desktop files are supported."
+msgstr ".desktop файлдары гана колдоого алынат."
+
+msgid "{} is already on the desktop."
+msgstr "{} иш тактасында мурунтан эле бар."
+
+msgid "Copy error: {}"
+msgstr "Көчүрүү катасы: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Кыска жол түзүү катасы: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Колдонмонун аталышы бош болбошу керек."
+
+msgid "Execution command cannot be empty."
+msgstr "Аткаруу буйругу бош болбошу керек."
+
+msgid "Creation error: {}"
+msgstr "Түзүү катасы: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} иш тактасынан табылган жок."
+
+msgid "{} removed from desktop."
+msgstr "{} иш тактасынан өчүрүлдү."
+
+msgid "Removal error: {}"
+msgstr "Алып салуу катасы: {}"
+
+msgid "Remove from Desktop"
+msgstr "Иш тактасынан алып салуу"
+
+msgid "Remove desktop shortcut"
+msgstr "Иш тактадагы жарлыкты алып салуу"
+
+msgid "Add to Desktop"
+msgstr "Иш тактага кошуу"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Иш тактага жарлык катары кошуу"
+
+msgid "Added to Desktop"
+msgstr "Иш тактасына кошулду"
+
+msgid "applications added to desktop."
+msgstr "колдонмолор иш тактасына кошулду."
+
+msgid "Application added to desktop."
+msgstr "Колдонмо иш тактасына кошулду."
+
+msgid "Warning"
+msgstr "Эскертүү"
+
+msgid "Removed from Desktop"
+msgstr "Иш тактасынан алынып салынды"
+
+msgid "Shortcut removed from desktop."
+msgstr "Жарлык иш тактасынан алынып салынды."
+

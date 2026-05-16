@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Zulu\n"
+"Language: zu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} akutholakalanga."
+
+msgid "Only .desktop files are supported."
+msgstr "Amafayela we-.desktop kuphela asekelwayo."
+
+msgid "{} is already on the desktop."
+msgstr "{} isivele iku-desktop."
+
+msgid "Copy error: {}"
+msgstr "Iphutha lokukopisha: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Iphutha lokudala izinqamuleli: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Igama lohlelo lokusebenza alikwazi ukungabi nalutho."
+
+msgid "Execution command cannot be empty."
+msgstr "Umyalo wokwenza awukwazi ukungabi nalutho."
+
+msgid "Creation error: {}"
+msgstr "Iphutha lokudala: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ayitholakalanga kudeskithophu."
+
+msgid "{} removed from desktop."
+msgstr "{} ikhishiwe kudeskithophu."
+
+msgid "Removal error: {}"
+msgstr "Iphutha lokususa: {}"
+
+msgid "Remove from Desktop"
+msgstr "Susa kudeskithophu"
+
+msgid "Remove desktop shortcut"
+msgstr "Susa isinqamuleli sedeskithophu"
+
+msgid "Add to Desktop"
+msgstr "Engeza kudeskithophu"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Engeza kudeskithophu njengesinqamuleli"
+
+msgid "Added to Desktop"
+msgstr "Kwengezwe kudeskithophu"
+
+msgid "applications added to desktop."
+msgstr "izinhlelo zokusebenza zengezwe kudeskithophu."
+
+msgid "Application added to desktop."
+msgstr "Uhlelo lokusebenza lwengezwe kudeskithophu."
+
+msgid "Warning"
+msgstr "Isexwayiso"
+
+msgid "Removed from Desktop"
+msgstr "Ikhishiwe Kudeskithophu"
+
+msgid "Shortcut removed from desktop."
+msgstr "Isinqamuleli sikhishiwe kudeskithophu."
+

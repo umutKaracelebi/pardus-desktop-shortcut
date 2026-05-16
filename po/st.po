@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Sesotho\n"
+"Language: st\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ha ea fumanoa."
+
+msgid "Only .desktop files are supported."
+msgstr "Ke lifaele tsa .desktop feela tse tšehetsoang."
+
+msgid "{} is already on the desktop."
+msgstr "{} e se e le komporong ea hau."
+
+msgid "Copy error: {}"
+msgstr "Phoso ea kopo: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Phoso ea ho theha tsela e khaoletsang: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Lebitso la kopo le ka se hloke letho."
+
+msgid "Execution command cannot be empty."
+msgstr "Taelo ea ho phethahatsa e ka se be le letho."
+
+msgid "Creation error: {}"
+msgstr "Phoso ea ho theha: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ha e fumanehe komporong ea hau."
+
+msgid "{} removed from desktop."
+msgstr "{} e tlositsoe komporong."
+
+msgid "Removal error: {}"
+msgstr "Phoso ea ho tlosa: {}"
+
+msgid "Remove from Desktop"
+msgstr "Tlosa ho Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Tlosa sekhechana sa komporo"
+
+msgid "Add to Desktop"
+msgstr "Eketsa ho Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Kenya komporong joalo ka tsela e khuts'oane"
+
+msgid "Added to Desktop"
+msgstr "E kentsoe ho Desktop"
+
+msgid "applications added to desktop."
+msgstr "lisebelisoa tse kentsoeng komporong."
+
+msgid "Application added to desktop."
+msgstr "Sesebelisoa se kentsoe komporong."
+
+msgid "Warning"
+msgstr "Tlhokomediso"
+
+msgid "Removed from Desktop"
+msgstr "E tlositsoe ho Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Shortcut e tlositsoe komporong."
+

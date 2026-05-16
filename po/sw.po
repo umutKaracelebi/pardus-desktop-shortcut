@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Swahili\n"
+"Language: sw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} haijapatikana."
+
+msgid "Only .desktop files are supported."
+msgstr "Ni faili za .desktop pekee ndizo zinazotumika."
+
+msgid "{} is already on the desktop."
+msgstr "{} tayari iko kwenye eneo-kazi."
+
+msgid "Copy error: {}"
+msgstr "Hitilafu ya kunakili: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Hitilafu ya kuunda njia ya mkato: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Jina la programu haliwezi kuwa tupu."
+
+msgid "Execution command cannot be empty."
+msgstr "Amri ya utekelezaji haiwezi kuwa tupu."
+
+msgid "Creation error: {}"
+msgstr "Hitilafu ya uundaji: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} haikupatikana kwenye eneo-kazi."
+
+msgid "{} removed from desktop."
+msgstr "{} imeondolewa kwenye eneo-kazi."
+
+msgid "Removal error: {}"
+msgstr "Hitilafu ya uondoaji: {}"
+
+msgid "Remove from Desktop"
+msgstr "Ondoa kwenye Eneo-kazi"
+
+msgid "Remove desktop shortcut"
+msgstr "Ondoa njia ya mkato ya eneo-kazi"
+
+msgid "Add to Desktop"
+msgstr "Ongeza kwenye Eneo-kazi"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Ongeza kwenye eneo-kazi kama njia ya mkato"
+
+msgid "Added to Desktop"
+msgstr "Imeongezwa kwenye Eneo-kazi"
+
+msgid "applications added to desktop."
+msgstr "programu zilizoongezwa kwenye eneo-kazi."
+
+msgid "Application added to desktop."
+msgstr "Programu imeongezwa kwenye eneo-kazi."
+
+msgid "Warning"
+msgstr "Onyo"
+
+msgid "Removed from Desktop"
+msgstr "Imeondolewa kwenye Eneo-kazi"
+
+msgid "Shortcut removed from desktop."
+msgstr "Njia ya mkato imeondolewa kwenye eneo-kazi."
+

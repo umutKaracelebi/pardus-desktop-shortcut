@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Shona\n"
+"Language: sn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} kusawanikwa."
+
+msgid "Only .desktop files are supported."
+msgstr "Chete .desktop mafaira anotsigirwa."
+
+msgid "{} is already on the desktop."
+msgstr "{} yatova padesktop."
+
+msgid "Copy error: {}"
+msgstr "Kopi kukanganisa: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Shortcut kugadzira kukanganisa: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Zita rekushandisa harigone kushaikwa."
+
+msgid "Execution command cannot be empty."
+msgstr "Murairo wekuita haugone kuve usina chinhu."
+
+msgid "Creation error: {}"
+msgstr "Kukanganisa kwekugadzira: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} haina kuwanikwa padesktop."
+
+msgid "{} removed from desktop."
+msgstr "{} yakabviswa padesktop."
+
+msgid "Removal error: {}"
+msgstr "Kubvisa kukanganisa: {}"
+
+msgid "Remove from Desktop"
+msgstr "Bvisa kubva paDesktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Bvisa desktop shortcut"
+
+msgid "Add to Desktop"
+msgstr "Wedzera kuDesktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Wedzera kune desktop senzira yekudimbudzira"
+
+msgid "Added to Desktop"
+msgstr "Yakawedzerwa kuDesktop"
+
+msgid "applications added to desktop."
+msgstr "maapplication akawedzerwa kune desktop."
+
+msgid "Application added to desktop."
+msgstr "Chishandiso chakawedzerwa kune desktop."
+
+msgid "Warning"
+msgstr "Yambiro"
+
+msgid "Removed from Desktop"
+msgstr "Yakabviswa kubva paDesktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Shortcut yakabviswa padesktop."
+

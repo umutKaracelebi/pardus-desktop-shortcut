@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Portuguese\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} não encontrado."
+
+msgid "Only .desktop files are supported."
+msgstr "Somente arquivos .desktop são suportados."
+
+msgid "{} is already on the desktop."
+msgstr "{} já está na área de trabalho."
+
+msgid "Copy error: {}"
+msgstr "Erro de cópia: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Erro ao criar atalho: {}"
+
+msgid "Application name cannot be empty."
+msgstr "O nome do aplicativo não pode ficar vazio."
+
+msgid "Execution command cannot be empty."
+msgstr "O comando de execução não pode ficar vazio."
+
+msgid "Creation error: {}"
+msgstr "Erro de criação: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} não foi encontrado na área de trabalho."
+
+msgid "{} removed from desktop."
+msgstr "{} removido do computador."
+
+msgid "Removal error: {}"
+msgstr "Erro de remoção: {}"
+
+msgid "Remove from Desktop"
+msgstr "Remover da área de trabalho"
+
+msgid "Remove desktop shortcut"
+msgstr "Remover atalho da área de trabalho"
+
+msgid "Add to Desktop"
+msgstr "Adicionar à área de trabalho"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Adicionar à área de trabalho como um atalho"
+
+msgid "Added to Desktop"
+msgstr "Adicionado à área de trabalho"
+
+msgid "applications added to desktop."
+msgstr "aplicativos adicionados à área de trabalho."
+
+msgid "Application added to desktop."
+msgstr "Aplicativo adicionado à área de trabalho."
+
+msgid "Warning"
+msgstr "Aviso"
+
+msgid "Removed from Desktop"
+msgstr "Removido da área de trabalho"
+
+msgid "Shortcut removed from desktop."
+msgstr "Atalho removido da área de trabalho."
+

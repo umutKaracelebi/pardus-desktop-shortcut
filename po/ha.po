@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Hausa\n"
+"Language: ha\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ba a samu ba."
+
+msgid "Only .desktop files are supported."
+msgstr "Fayilolin tebur kawai ke tallafawa."
+
+msgid "{} is already on the desktop."
+msgstr "{} ya riga ya kasance a kan tebur."
+
+msgid "Copy error: {}"
+msgstr "Kuskuren Kwafi: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Kuskuren ƙirƙirar gajeriyar hanya: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Sunan aikace-aikacen ba zai iya zama fanko ba."
+
+msgid "Execution command cannot be empty."
+msgstr "Umurnin aiwatarwa ba zai zama fanko ba."
+
+msgid "Creation error: {}"
+msgstr "Kuskuren halitta: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ba a samo shi akan tebur ba."
+
+msgid "{} removed from desktop."
+msgstr "An cire {} daga tebur."
+
+msgid "Removal error: {}"
+msgstr "Kuskuren cirewa: {}"
+
+msgid "Remove from Desktop"
+msgstr "Cire daga Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Cire gajeriyar hanyar tebur"
+
+msgid "Add to Desktop"
+msgstr "Ƙara zuwa Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Ƙara zuwa tebur azaman gajeriyar hanya"
+
+msgid "Added to Desktop"
+msgstr "Ƙara zuwa Desktop"
+
+msgid "applications added to desktop."
+msgstr "aikace-aikace da aka ƙara zuwa tebur."
+
+msgid "Application added to desktop."
+msgstr "Ƙara aikace-aikacen zuwa tebur."
+
+msgid "Warning"
+msgstr "Gargadi"
+
+msgid "Removed from Desktop"
+msgstr "An cire daga Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "An cire gajeriyar hanya daga tebur."
+

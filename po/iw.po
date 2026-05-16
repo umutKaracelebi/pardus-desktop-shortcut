@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Hebrew\n"
+"Language: iw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} לא נמצא."
+
+msgid "Only .desktop files are supported."
+msgstr "רק קבצי .desktop נתמכים."
+
+msgid "{} is already on the desktop."
+msgstr "{} כבר נמצא בשולחן העבודה."
+
+msgid "Copy error: {}"
+msgstr "שגיאת העתקה: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "שגיאה ביצירת קיצור: {}"
+
+msgid "Application name cannot be empty."
+msgstr "שם האפליקציה לא יכול להיות ריק."
+
+msgid "Execution command cannot be empty."
+msgstr "פקודת ביצוע לא יכולה להיות ריקה."
+
+msgid "Creation error: {}"
+msgstr "שגיאת יצירה: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} לא נמצא בשולחן העבודה."
+
+msgid "{} removed from desktop."
+msgstr "{} הוסר משולחן העבודה."
+
+msgid "Removal error: {}"
+msgstr "שגיאת הסרה: {}"
+
+msgid "Remove from Desktop"
+msgstr "הסר משולחן העבודה"
+
+msgid "Remove desktop shortcut"
+msgstr "הסר קיצור דרך בשולחן העבודה"
+
+msgid "Add to Desktop"
+msgstr "הוסף לשולחן העבודה"
+
+msgid "Add to desktop as a shortcut"
+msgstr "הוסף לשולחן העבודה כקיצור דרך"
+
+msgid "Added to Desktop"
+msgstr "נוסף לשולחן העבודה"
+
+msgid "applications added to desktop."
+msgstr "יישומים שנוספו לשולחן העבודה."
+
+msgid "Application added to desktop."
+msgstr "יישום נוסף לשולחן העבודה."
+
+msgid "Warning"
+msgstr "אַזהָרָה"
+
+msgid "Removed from Desktop"
+msgstr "הוסר משולחן העבודה"
+
+msgid "Shortcut removed from desktop."
+msgstr "קיצור הדרך הוסר משולחן העבודה."
+

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Hawaiian\n"
+"Language: haw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} loaʻa ʻole."
+
+msgid "Only .desktop files are supported."
+msgstr "Kākoʻo ʻia nā faila .desktop wale nō."
+
+msgid "{} is already on the desktop."
+msgstr "Aia ʻo {} ma ka pākaukau."
+
+msgid "Copy error: {}"
+msgstr "Kuhi hewa: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Ua hewa ka hana ʻana i ka pōkole: {}"
+
+msgid "Application name cannot be empty."
+msgstr "ʻAʻole hiki ke nele ka inoa o ka noi."
+
+msgid "Execution command cannot be empty."
+msgstr "ʻAʻole hiki ke hakahaka ke kauoha hoʻokō."
+
+msgid "Creation error: {}"
+msgstr "Ua hewa ka hana ʻana: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "ʻAʻole i loaʻa ʻo {} ma ka pākaukau."
+
+msgid "{} removed from desktop."
+msgstr "Wehe ʻia ʻo {} mai ka pākaukau."
+
+msgid "Removal error: {}"
+msgstr "Kuhi hewa: {}"
+
+msgid "Remove from Desktop"
+msgstr "Wehe ʻia mai ka Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Wehe i ka pōkole papapihi"
+
+msgid "Add to Desktop"
+msgstr "Pākuʻi i ka Papakaukau"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Hoʻohui i ka pākaukau ma ke ʻano he pōkole"
+
+msgid "Added to Desktop"
+msgstr "Hoʻohui ʻia i ka Papakaukau"
+
+msgid "applications added to desktop."
+msgstr "nā polokalamu i hoʻohui ʻia i ka pākaukau."
+
+msgid "Application added to desktop."
+msgstr "Hoʻohui ʻia ka palapala noi i ka pākaukau."
+
+msgid "Warning"
+msgstr "ʻŌlelo aʻo"
+
+msgid "Removed from Desktop"
+msgstr "Wehe ʻia mai ka Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Wehe ʻia ka pōkole mai ka pākaukau."
+

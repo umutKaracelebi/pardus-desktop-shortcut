@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Galician\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "Non se atopou {}."
+
+msgid "Only .desktop files are supported."
+msgstr "Só se admiten ficheiros .desktop."
+
+msgid "{} is already on the desktop."
+msgstr "{} xa está no escritorio."
+
+msgid "Copy error: {}"
+msgstr "Erro de copia: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Erro na creación do atallo: {}"
+
+msgid "Application name cannot be empty."
+msgstr "O nome da aplicación non pode estar baleiro."
+
+msgid "Execution command cannot be empty."
+msgstr "O comando de execución non pode estar baleiro."
+
+msgid "Creation error: {}"
+msgstr "Erro de creación: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "Non se atopou {} no escritorio."
+
+msgid "{} removed from desktop."
+msgstr "{} eliminado do escritorio."
+
+msgid "Removal error: {}"
+msgstr "Erro de eliminación: {}"
+
+msgid "Remove from Desktop"
+msgstr "Eliminar do escritorio"
+
+msgid "Remove desktop shortcut"
+msgstr "Eliminar o atallo do escritorio"
+
+msgid "Add to Desktop"
+msgstr "Engadir ao escritorio"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Engadir ao escritorio como atallo"
+
+msgid "Added to Desktop"
+msgstr "Engadido ao escritorio"
+
+msgid "applications added to desktop."
+msgstr "aplicacións engadidas ao escritorio."
+
+msgid "Application added to desktop."
+msgstr "Aplicación engadida ao escritorio."
+
+msgid "Warning"
+msgstr "Aviso"
+
+msgid "Removed from Desktop"
+msgstr "Eliminado do escritorio"
+
+msgid "Shortcut removed from desktop."
+msgstr "Eliminouse o atallo do escritorio."
+

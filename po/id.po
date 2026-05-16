@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Indonesian\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} tidak ditemukan."
+
+msgid "Only .desktop files are supported."
+msgstr "Hanya file .desktop yang didukung."
+
+msgid "{} is already on the desktop."
+msgstr "{} sudah ada di desktop."
+
+msgid "Copy error: {}"
+msgstr "Kesalahan penyalinan: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Kesalahan pembuatan pintasan: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Nama aplikasi tidak boleh kosong."
+
+msgid "Execution command cannot be empty."
+msgstr "Perintah eksekusi tidak boleh kosong."
+
+msgid "Creation error: {}"
+msgstr "Kesalahan pembuatan: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} tidak ditemukan di desktop."
+
+msgid "{} removed from desktop."
+msgstr "{} dihapus dari desktop."
+
+msgid "Removal error: {}"
+msgstr "Kesalahan penghapusan: {}"
+
+msgid "Remove from Desktop"
+msgstr "Hapus dari Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Hapus pintasan desktop"
+
+msgid "Add to Desktop"
+msgstr "Tambahkan ke Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Tambahkan ke desktop sebagai pintasan"
+
+msgid "Added to Desktop"
+msgstr "Ditambahkan ke Desktop"
+
+msgid "applications added to desktop."
+msgstr "aplikasi ditambahkan ke desktop."
+
+msgid "Application added to desktop."
+msgstr "Aplikasi ditambahkan ke desktop."
+
+msgid "Warning"
+msgstr "Peringatan"
+
+msgid "Removed from Desktop"
+msgstr "Dihapus dari Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Pintasan dihapus dari desktop."
+

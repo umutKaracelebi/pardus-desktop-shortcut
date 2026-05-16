@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Amharic\n"
+"Language: am\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} አልተገኘም።"
+
+msgid "Only .desktop files are supported."
+msgstr "የዴስክቶፕ ፋይሎች ብቻ ናቸው የሚደገፉት።"
+
+msgid "{} is already on the desktop."
+msgstr "{} አስቀድሞ በዴስክቶፕ ላይ ነው።"
+
+msgid "Copy error: {}"
+msgstr "የመቅዳት ስህተት፡ {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "አቋራጭ የመፍጠር ስህተት፡ {}"
+
+msgid "Application name cannot be empty."
+msgstr "የመተግበሪያ ስም ባዶ ሊሆን አይችልም።"
+
+msgid "Execution command cannot be empty."
+msgstr "የማስፈጸሚያ ትእዛዝ ባዶ ሊሆን አይችልም።"
+
+msgid "Creation error: {}"
+msgstr "የፍጥረት ስህተት፡ {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} በዴስክቶፕ ላይ አልተገኘም።"
+
+msgid "{} removed from desktop."
+msgstr "{} ከዴስክቶፕ ተወግዷል።"
+
+msgid "Removal error: {}"
+msgstr "የማስወገድ ስህተት፡ {}"
+
+msgid "Remove from Desktop"
+msgstr "ከዴስክቶፕ አስወግድ"
+
+msgid "Remove desktop shortcut"
+msgstr "የዴስክቶፕ አቋራጭን ያስወግዱ"
+
+msgid "Add to Desktop"
+msgstr "ወደ ዴስክቶፕ አክል"
+
+msgid "Add to desktop as a shortcut"
+msgstr "እንደ አቋራጭ ወደ ዴስክቶፕ ያክሉ"
+
+msgid "Added to Desktop"
+msgstr "ወደ ዴስክቶፕ ታክሏል።"
+
+msgid "applications added to desktop."
+msgstr "መተግበሪያዎች ወደ ዴስክቶፕ ታክለዋል."
+
+msgid "Application added to desktop."
+msgstr "መተግበሪያ ወደ ዴስክቶፕ ታክሏል።"
+
+msgid "Warning"
+msgstr "ማስጠንቀቂያ"
+
+msgid "Removed from Desktop"
+msgstr "ከዴስክቶፕ ተወግዷል"
+
+msgid "Shortcut removed from desktop."
+msgstr "አቋራጭ ከዴስክቶፕ ተወግዷል።"
+

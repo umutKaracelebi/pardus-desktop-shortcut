@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Afrikaans\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} nie gevind nie."
+
+msgid "Only .desktop files are supported."
+msgstr "Slegs .desktop-lêers word ondersteun."
+
+msgid "{} is already on the desktop."
+msgstr "{} is reeds op die lessenaar."
+
+msgid "Copy error: {}"
+msgstr "Kopieerfout: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Kortpadskeppingsfout: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Programnaam kan nie leeg wees nie."
+
+msgid "Execution command cannot be empty."
+msgstr "Uitvoerbevel kan nie leeg wees nie."
+
+msgid "Creation error: {}"
+msgstr "Skepfout: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} is nie op die lessenaar gevind nie."
+
+msgid "{} removed from desktop."
+msgstr "{} verwyder van rekenaar."
+
+msgid "Removal error: {}"
+msgstr "Verwyderingsfout: {}"
+
+msgid "Remove from Desktop"
+msgstr "Verwyder van lessenaar"
+
+msgid "Remove desktop shortcut"
+msgstr "Verwyder lessenaar kortpad"
+
+msgid "Add to Desktop"
+msgstr "Voeg by lessenaar"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Voeg by lessenaar as 'n kortpad"
+
+msgid "Added to Desktop"
+msgstr "By lessenaar gevoeg"
+
+msgid "applications added to desktop."
+msgstr "toepassings by die lessenaar gevoeg."
+
+msgid "Application added to desktop."
+msgstr "Toepassing is by lessenaar gevoeg."
+
+msgid "Warning"
+msgstr "Waarskuwing"
+
+msgid "Removed from Desktop"
+msgstr "Van lessenaar verwyder"
+
+msgid "Shortcut removed from desktop."
+msgstr "Kortpad verwyder van lessenaar."
+

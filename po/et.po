@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Estonian\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ei leitud."
+
+msgid "Only .desktop files are supported."
+msgstr "Toetatakse ainult .desktop-faile."
+
+msgid "{} is already on the desktop."
+msgstr "{} on juba töölaual."
+
+msgid "Copy error: {}"
+msgstr "Kopeerimise viga: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Viga otsetee loomisel: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Rakenduse nimi ei tohi olla tühi."
+
+msgid "Execution command cannot be empty."
+msgstr "Täitmiskäsklus ei saa olla tühi."
+
+msgid "Creation error: {}"
+msgstr "Loomise viga: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ei leitud töölaualt."
+
+msgid "{} removed from desktop."
+msgstr "{} eemaldati töölaualt."
+
+msgid "Removal error: {}"
+msgstr "Eemaldamise viga: {}"
+
+msgid "Remove from Desktop"
+msgstr "Eemalda töölaualt"
+
+msgid "Remove desktop shortcut"
+msgstr "Eemaldage töölaua otsetee"
+
+msgid "Add to Desktop"
+msgstr "Lisa töölauale"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Lisa otseteena töölauale"
+
+msgid "Added to Desktop"
+msgstr "Lisatud töölauale"
+
+msgid "applications added to desktop."
+msgstr "töölauale lisatud rakendused."
+
+msgid "Application added to desktop."
+msgstr "Rakendus lisati töölauale."
+
+msgid "Warning"
+msgstr "Hoiatus"
+
+msgid "Removed from Desktop"
+msgstr "Töölaualt eemaldatud"
+
+msgid "Shortcut removed from desktop."
+msgstr "Otsetee töölaualt eemaldatud."
+

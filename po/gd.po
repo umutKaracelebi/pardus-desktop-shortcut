@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Scots Gaelic\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} Gun a lorg."
+
+msgid "Only .desktop files are supported."
+msgstr "Chan eil ach faidhlichean .desktop a’ faighinn taic."
+
+msgid "{} is already on the desktop."
+msgstr "Tha {} air an deasg mu thràth."
+
+msgid "Copy error: {}"
+msgstr "Dèan lethbhreac dhen mhearachd: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Mearachd cruthachadh ath-ghoirid: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Chan fhaod ainm an tagraidh a bhith falamh."
+
+msgid "Execution command cannot be empty."
+msgstr "Chan urrainn don àithne gnìomhachaidh a bhith falamh."
+
+msgid "Creation error: {}"
+msgstr "Mearachd cruthachaidh: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "Cha deach {} a lorg air an deasg."
+
+msgid "{} removed from desktop."
+msgstr "{} air a thoirt air falbh on deasg."
+
+msgid "Removal error: {}"
+msgstr "Mearachd toirt air falbh: {}"
+
+msgid "Remove from Desktop"
+msgstr "Thoir air falbh bhon Deasg"
+
+msgid "Remove desktop shortcut"
+msgstr "Thoir air falbh ath-ghoirid deasg"
+
+msgid "Add to Desktop"
+msgstr "Cuir ris an Deasg"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Cuir ris an deasg mar ath-ghoirid"
+
+msgid "Added to Desktop"
+msgstr "Air a chur ris an Deasg"
+
+msgid "applications added to desktop."
+msgstr "aplacaidean air an cur ris an deasg."
+
+msgid "Application added to desktop."
+msgstr "Iarrtas air a chur ris an deasg."
+
+msgid "Warning"
+msgstr "Rabhadh"
+
+msgid "Removed from Desktop"
+msgstr "Air a thoirt air falbh bhon Deasg"
+
+msgid "Shortcut removed from desktop."
+msgstr "Ath-ghoirid air a thoirt air falbh bhon deasg."
+

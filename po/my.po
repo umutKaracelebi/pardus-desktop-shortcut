@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Myanmar (Burmese)\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} မတွေ့ပါ။"
+
+msgid "Only .desktop files are supported."
+msgstr ".desktop ဖိုင်များကိုသာ ပံ့ပိုးထားပါသည်။"
+
+msgid "{} is already on the desktop."
+msgstr "{} သည် ဒက်စ်တော့ပေါ်တွင် ရှိနှင့်ပြီးဖြစ်သည်။"
+
+msgid "Copy error: {}"
+msgstr "ကူးယူမှု အမှား- {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "ဖြတ်လမ်းဖန်တီးမှု အမှား- {}"
+
+msgid "Application name cannot be empty."
+msgstr "အပလီကေးရှင်းအမည်ကို ဗလာမဖြစ်ရပါ။"
+
+msgid "Execution command cannot be empty."
+msgstr "Execution command ကို ဗလာမဖြစ်နိုင်ပါဘူး။"
+
+msgid "Creation error: {}"
+msgstr "ဖန်တီးမှု အမှား- {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ကို ဒက်စ်တော့တွင် ရှာမတွေ့ပါ။"
+
+msgid "{} removed from desktop."
+msgstr "{} ကို ဒက်စ်တော့မှ ဖယ်ရှားခဲ့သည်။"
+
+msgid "Removal error: {}"
+msgstr "ဖယ်ရှားရေး အမှား- {}"
+
+msgid "Remove from Desktop"
+msgstr "Desktop မှဖယ်ရှားပါ။"
+
+msgid "Remove desktop shortcut"
+msgstr "ဒက်စ်တော့ဖြတ်လမ်းကို ဖယ်ရှားပါ။"
+
+msgid "Add to Desktop"
+msgstr "Desktop သို့ထည့်ပါ။"
+
+msgid "Add to desktop as a shortcut"
+msgstr "ဖြတ်လမ်းလင့်ခ်အဖြစ် ဒက်စ်တော့သို့ ထည့်ပါ။"
+
+msgid "Added to Desktop"
+msgstr "Desktop သို့ ပေါင်းထည့်ခဲ့သည်။"
+
+msgid "applications added to desktop."
+msgstr "အပလီကေးရှင်းများကို ဒက်စ်တော့တွင် ထည့်ထားသည်။"
+
+msgid "Application added to desktop."
+msgstr "အပလီကေးရှင်းကို ဒက်စ်တော့တွင် ထည့်ထားသည်။"
+
+msgid "Warning"
+msgstr "သတိပေးချက်"
+
+msgid "Removed from Desktop"
+msgstr "Desktop မှ ဖယ်ရှားခဲ့သည်။"
+
+msgid "Shortcut removed from desktop."
+msgstr "ဖြတ်လမ်းလင့်ခ်ကို ဒက်စ်တော့မှ ဖယ်ရှားလိုက်ပါပြီ။"
+

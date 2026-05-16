@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Esperanto\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ne trovita."
+
+msgid "Only .desktop files are supported."
+msgstr "Nur .desktop dosieroj estas subtenataj."
+
+msgid "{} is already on the desktop."
+msgstr "{} jam estas sur la labortablo."
+
+msgid "Copy error: {}"
+msgstr "Kopieraro: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Eraro pri kreado de ŝparvojoj: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Apliknomo ne povas esti malplena."
+
+msgid "Execution command cannot be empty."
+msgstr "Ekzekuta komando ne povas esti malplena."
+
+msgid "Creation error: {}"
+msgstr "Krea eraro: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ne estis trovita sur la labortablo."
+
+msgid "{} removed from desktop."
+msgstr "{} forigita de la labortablo."
+
+msgid "Removal error: {}"
+msgstr "Foriga eraro: {}"
+
+msgid "Remove from Desktop"
+msgstr "Forigi de Labortablo"
+
+msgid "Remove desktop shortcut"
+msgstr "Forigi labortablan ŝparvojon"
+
+msgid "Add to Desktop"
+msgstr "Aldoni al Labortablo"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Aldonu al labortablo kiel ŝparvojo"
+
+msgid "Added to Desktop"
+msgstr "Aldonita al Labortablo"
+
+msgid "applications added to desktop."
+msgstr "aplikoj aldonitaj al labortablo."
+
+msgid "Application added to desktop."
+msgstr "Apliko aldonita al labortablo."
+
+msgid "Warning"
+msgstr "Averto"
+
+msgid "Removed from Desktop"
+msgstr "Forigita de Labortablo"
+
+msgid "Shortcut removed from desktop."
+msgstr "Ŝparvojo forigita de la labortablo."
+

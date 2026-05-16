@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Chinese (Simplified)\n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} 未找到。"
+
+msgid "Only .desktop files are supported."
+msgstr "仅支持 .desktop 文件。"
+
+msgid "{} is already on the desktop."
+msgstr "{} 已在桌面上。"
+
+msgid "Copy error: {}"
+msgstr "复制错误：{}"
+
+msgid "Shortcut creation error: {}"
+msgstr "快捷方式创建错误：{}"
+
+msgid "Application name cannot be empty."
+msgstr "应用程序名称不能为空。"
+
+msgid "Execution command cannot be empty."
+msgstr "执行命令不能为空。"
+
+msgid "Creation error: {}"
+msgstr "创建错误：{}"
+
+msgid "{} was not found on the desktop."
+msgstr "在桌面上找不到 {}。"
+
+msgid "{} removed from desktop."
+msgstr "{} 从桌面删除。"
+
+msgid "Removal error: {}"
+msgstr "删除错误：{}"
+
+msgid "Remove from Desktop"
+msgstr "从桌面删除"
+
+msgid "Remove desktop shortcut"
+msgstr "删除桌面快捷方式"
+
+msgid "Add to Desktop"
+msgstr "添加到桌面"
+
+msgid "Add to desktop as a shortcut"
+msgstr "添加到桌面作为快捷方式"
+
+msgid "Added to Desktop"
+msgstr "添加到桌面"
+
+msgid "applications added to desktop."
+msgstr "应用程序添加到桌面。"
+
+msgid "Application added to desktop."
+msgstr "应用程序已添加到桌面。"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Removed from Desktop"
+msgstr "从桌面删除"
+
+msgid "Shortcut removed from desktop."
+msgstr "快捷方式已从桌面删除。"
+

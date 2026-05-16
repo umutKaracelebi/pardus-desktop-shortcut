@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Punjabi\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ਨਹੀਂ ਲਭਿਆ."
+
+msgid "Only .desktop files are supported."
+msgstr "ਸਿਰਫ਼ .desktop ਫ਼ਾਈਲਾਂ ਸਮਰਥਿਤ ਹਨ।"
+
+msgid "{} is already on the desktop."
+msgstr "{} ਪਹਿਲਾਂ ਹੀ ਡੈਸਕਟਾਪ 'ਤੇ ਹੈ।"
+
+msgid "Copy error: {}"
+msgstr "ਕਾਪੀ ਗਲਤੀ: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "ਸ਼ਾਰਟਕੱਟ ਬਣਾਉਣ ਦੀ ਗਲਤੀ: {}"
+
+msgid "Application name cannot be empty."
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਨਾਮ ਖਾਲੀ ਨਹੀਂ ਹੋ ਸਕਦਾ ਹੈ।"
+
+msgid "Execution command cannot be empty."
+msgstr "ਐਗਜ਼ੀਕਿਊਸ਼ਨ ਕਮਾਂਡ ਖਾਲੀ ਨਹੀਂ ਹੋ ਸਕਦੀ।"
+
+msgid "Creation error: {}"
+msgstr "ਰਚਨਾ ਗਲਤੀ: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "ਡੈਸਕਟਾਪ 'ਤੇ {} ਨਹੀਂ ਮਿਲਿਆ।"
+
+msgid "{} removed from desktop."
+msgstr "{} ਨੂੰ ਡੈਸਕਟਾਪ ਤੋਂ ਹਟਾਇਆ ਗਿਆ।"
+
+msgid "Removal error: {}"
+msgstr "ਹਟਾਉਣ ਦੀ ਗਲਤੀ: {}"
+
+msgid "Remove from Desktop"
+msgstr "ਡੈਸਕਟਾਪ ਤੋਂ ਹਟਾਓ"
+
+msgid "Remove desktop shortcut"
+msgstr "ਡੈਸਕਟਾਪ ਸ਼ਾਰਟਕੱਟ ਹਟਾਓ"
+
+msgid "Add to Desktop"
+msgstr "ਡੈਸਕਟਾਪ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ"
+
+msgid "Add to desktop as a shortcut"
+msgstr "ਇੱਕ ਸ਼ਾਰਟਕੱਟ ਵਜੋਂ ਡੈਸਕਟਾਪ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ"
+
+msgid "Added to Desktop"
+msgstr "ਡੈਸਕਟਾਪ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ"
+
+msgid "applications added to desktop."
+msgstr "ਐਪਲੀਕੇਸ਼ਨਾਂ ਨੂੰ ਡੈਸਕਟਾਪ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ ਹੈ।"
+
+msgid "Application added to desktop."
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਡੈਸਕਟਾਪ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ।"
+
+msgid "Warning"
+msgstr "ਚੇਤਾਵਨੀ"
+
+msgid "Removed from Desktop"
+msgstr "ਡੈਸਕਟਾਪ ਤੋਂ ਹਟਾਇਆ ਗਿਆ"
+
+msgid "Shortcut removed from desktop."
+msgstr "ਡੈਸਕਟਾਪ ਤੋਂ ਸ਼ਾਰਟਕੱਟ ਹਟਾਇਆ ਗਿਆ।"
+

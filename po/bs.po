@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Bosnian\n"
+"Language: bs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} nije pronađeno."
+
+msgid "Only .desktop files are supported."
+msgstr "Podržane su samo .desktop datoteke."
+
+msgid "{} is already on the desktop."
+msgstr "{} je već na radnoj površini."
+
+msgid "Copy error: {}"
+msgstr "Greška pri kopiranju: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Greška u kreiranju prečice: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Naziv aplikacije ne može biti prazan."
+
+msgid "Execution command cannot be empty."
+msgstr "Naredba izvršenja ne može biti prazna."
+
+msgid "Creation error: {}"
+msgstr "Greška u kreiranju: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} nije pronađen na radnoj površini."
+
+msgid "{} removed from desktop."
+msgstr "{} je uklonjen sa radne površine."
+
+msgid "Removal error: {}"
+msgstr "Greška pri uklanjanju: {}"
+
+msgid "Remove from Desktop"
+msgstr "Ukloni sa radne površine"
+
+msgid "Remove desktop shortcut"
+msgstr "Uklonite prečicu na radnoj površini"
+
+msgid "Add to Desktop"
+msgstr "Dodaj na radnu površinu"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Dodaj na radnu površinu kao prečicu"
+
+msgid "Added to Desktop"
+msgstr "Dodato na radnu površinu"
+
+msgid "applications added to desktop."
+msgstr "aplikacije dodate na radnu površinu."
+
+msgid "Application added to desktop."
+msgstr "Aplikacija dodana na radnu površinu."
+
+msgid "Warning"
+msgstr "Upozorenje"
+
+msgid "Removed from Desktop"
+msgstr "Uklonjeno sa radne površine"
+
+msgid "Shortcut removed from desktop."
+msgstr "Prečica je uklonjena sa radne površine."
+

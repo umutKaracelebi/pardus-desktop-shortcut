@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Czech\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} nenalezeno."
+
+msgid "Only .desktop files are supported."
+msgstr "Podporovány jsou pouze soubory .desktop."
+
+msgid "{} is already on the desktop."
+msgstr "{} je již na ploše."
+
+msgid "Copy error: {}"
+msgstr "Chyba kopírování: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Chyba při vytváření zástupce: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Název aplikace nesmí být prázdný."
+
+msgid "Execution command cannot be empty."
+msgstr "Příkaz k provedení nemůže být prázdný."
+
+msgid "Creation error: {}"
+msgstr "Chyba při vytváření: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} nebyl nalezen na ploše."
+
+msgid "{} removed from desktop."
+msgstr "{} odstraněno z plochy."
+
+msgid "Removal error: {}"
+msgstr "Chyba při odstraňování: {}"
+
+msgid "Remove from Desktop"
+msgstr "Odebrat z plochy"
+
+msgid "Remove desktop shortcut"
+msgstr "Odebrat zástupce na ploše"
+
+msgid "Add to Desktop"
+msgstr "Přidat na plochu"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Přidat na plochu jako zástupce"
+
+msgid "Added to Desktop"
+msgstr "Přidáno na plochu"
+
+msgid "applications added to desktop."
+msgstr "aplikace přidané na plochu."
+
+msgid "Application added to desktop."
+msgstr "Aplikace přidána na plochu."
+
+msgid "Warning"
+msgstr "Varování"
+
+msgid "Removed from Desktop"
+msgstr "Odebráno z plochy"
+
+msgid "Shortcut removed from desktop."
+msgstr "Zástupce byl odstraněn z plochy."
+

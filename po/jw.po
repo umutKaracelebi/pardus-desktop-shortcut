@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Javanese\n"
+"Language: jw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ora ketemu."
+
+msgid "Only .desktop files are supported."
+msgstr "Mung file .desktop sing didhukung."
+
+msgid "{} is already on the desktop."
+msgstr "{} wis ana ing desktop."
+
+msgid "Copy error: {}"
+msgstr "Nyalin kesalahan: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Kesalahan nggawe trabasan: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Jeneng aplikasi ora bisa kosong."
+
+msgid "Execution command cannot be empty."
+msgstr "Perintah eksekusi ora bisa kosong."
+
+msgid "Creation error: {}"
+msgstr "Kesalahan nggawe: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ora ditemokake ing desktop."
+
+msgid "{} removed from desktop."
+msgstr "{} dibusak saka desktop."
+
+msgid "Removal error: {}"
+msgstr "Kasalahan mbusak: {}"
+
+msgid "Remove from Desktop"
+msgstr "Mbusak saka Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Mbusak trabasan desktop"
+
+msgid "Add to Desktop"
+msgstr "Tambah menyang Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Tambah menyang desktop minangka trabasan"
+
+msgid "Added to Desktop"
+msgstr "Ditambahake menyang Desktop"
+
+msgid "applications added to desktop."
+msgstr "aplikasi sing ditambahake menyang desktop."
+
+msgid "Application added to desktop."
+msgstr "Aplikasi ditambahake menyang desktop."
+
+msgid "Warning"
+msgstr "Pènget"
+
+msgid "Removed from Desktop"
+msgstr "Dibusak saka Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Trabasan dibusak saka desktop."
+

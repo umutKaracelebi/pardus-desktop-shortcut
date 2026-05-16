@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Kurdish (Kurmanji)\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} peyda nebû."
+
+msgid "Only .desktop files are supported."
+msgstr "Tenê pelên .desktop têne piştgirî kirin."
+
+msgid "{} is already on the desktop."
+msgstr "{} jixwe li ser sermaseyê ye."
+
+msgid "Copy error: {}"
+msgstr "Çewtiya kopîkirinê: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Çewtiya çêkirina kurtebirê: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Navê serîlêdanê nikare vala be."
+
+msgid "Execution command cannot be empty."
+msgstr "Fermana darvekirinê vala nabe."
+
+msgid "Creation error: {}"
+msgstr "Çewtiya afirandinê: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} li ser sermaseyê nehat dîtin."
+
+msgid "{} removed from desktop."
+msgstr "{} ji sermaseyê hat rakirin."
+
+msgid "Removal error: {}"
+msgstr "Çewtiya rakirinê: {}"
+
+msgid "Remove from Desktop"
+msgstr "Ji Sermaseyê rake"
+
+msgid "Remove desktop shortcut"
+msgstr "Kurtebirra sermaseyê rake"
+
+msgid "Add to Desktop"
+msgstr "Sermaseyê zêde bike"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Wek kurtebir li sermaseyê zêde bikin"
+
+msgid "Added to Desktop"
+msgstr "Li Sermaseyê hate zêdekirin"
+
+msgid "applications added to desktop."
+msgstr "sepanên ku li sermaseyê hatine zêdekirin."
+
+msgid "Application added to desktop."
+msgstr "Serlêdan li sermaseyê hate zêdekirin."
+
+msgid "Warning"
+msgstr "Gazî"
+
+msgid "Removed from Desktop"
+msgstr "Ji Sermaseyê hate rakirin"
+
+msgid "Shortcut removed from desktop."
+msgstr "Kurtebir ji sermaseyê hat rakirin."
+

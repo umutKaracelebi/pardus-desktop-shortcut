@@ -3,5 +3,12 @@
 %:
 	dh $@
 
+override_dh_auto_build:
+	for po in po/*.po; do \
+		lang=$$(basename $$po .po); \
+		mkdir -p build/locale/$$lang/LC_MESSAGES/; \
+		msgfmt $$po -o build/locale/$$lang/LC_MESSAGES/pardus-desktop-shortcut.mo; \
+	done
+
 override_dh_install:
 	dh_install

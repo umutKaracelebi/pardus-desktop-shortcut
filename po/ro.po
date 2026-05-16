@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Romanian\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} nu a fost găsit."
+
+msgid "Only .desktop files are supported."
+msgstr "Sunt acceptate numai fișierele .desktop."
+
+msgid "{} is already on the desktop."
+msgstr "{} este deja pe desktop."
+
+msgid "Copy error: {}"
+msgstr "Eroare de copiere: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Eroare la crearea comenzii rapide: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Numele aplicației nu poate fi gol."
+
+msgid "Execution command cannot be empty."
+msgstr "Comanda de execuție nu poate fi goală."
+
+msgid "Creation error: {}"
+msgstr "Eroare de creare: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} nu a fost găsit pe desktop."
+
+msgid "{} removed from desktop."
+msgstr "{} eliminat de pe desktop."
+
+msgid "Removal error: {}"
+msgstr "Eroare de eliminare: {}"
+
+msgid "Remove from Desktop"
+msgstr "Eliminați de pe desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Eliminați comanda rapidă de pe desktop"
+
+msgid "Add to Desktop"
+msgstr "Adăugați pe desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Adăugați pe desktop ca o comandă rapidă"
+
+msgid "Added to Desktop"
+msgstr "Adăugat pe desktop"
+
+msgid "applications added to desktop."
+msgstr "aplicații adăugate pe desktop."
+
+msgid "Application added to desktop."
+msgstr "Aplicație adăugată pe desktop."
+
+msgid "Warning"
+msgstr "Avertizare"
+
+msgid "Removed from Desktop"
+msgstr "Eliminat de pe desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Comandă rapidă a fost eliminată de pe desktop."
+

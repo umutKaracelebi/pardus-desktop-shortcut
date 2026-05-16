@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Norwegian\n"
+"Language: no\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ikke funnet."
+
+msgid "Only .desktop files are supported."
+msgstr "Bare .desktop-filer støttes."
+
+msgid "{} is already on the desktop."
+msgstr "{} er allerede på skrivebordet."
+
+msgid "Copy error: {}"
+msgstr "Kopifeil: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Feil ved opprettelse av snarveier: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Programnavnet kan ikke være tomt."
+
+msgid "Execution command cannot be empty."
+msgstr "Utførelseskommando kan ikke være tom."
+
+msgid "Creation error: {}"
+msgstr "Opprettingsfeil: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ble ikke funnet på skrivebordet."
+
+msgid "{} removed from desktop."
+msgstr "{} fjernet fra skrivebordet."
+
+msgid "Removal error: {}"
+msgstr "Fjerningsfeil: {}"
+
+msgid "Remove from Desktop"
+msgstr "Fjern fra skrivebordet"
+
+msgid "Remove desktop shortcut"
+msgstr "Fjern snarvei på skrivebordet"
+
+msgid "Add to Desktop"
+msgstr "Legg til skrivebordet"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Legg til skrivebordet som en snarvei"
+
+msgid "Added to Desktop"
+msgstr "Lagt til skrivebordet"
+
+msgid "applications added to desktop."
+msgstr "applikasjoner lagt til skrivebordet."
+
+msgid "Application added to desktop."
+msgstr "Applikasjon lagt til skrivebordet."
+
+msgid "Warning"
+msgstr "Advarsel"
+
+msgid "Removed from Desktop"
+msgstr "Fjernet fra skrivebordet"
+
+msgid "Shortcut removed from desktop."
+msgstr "Snarvei fjernet fra skrivebordet."
+

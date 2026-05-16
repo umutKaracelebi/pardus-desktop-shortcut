@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Mongolian\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} олдсонгүй."
+
+msgid "Only .desktop files are supported."
+msgstr "Зөвхөн .desktop файлуудыг дэмждэг."
+
+msgid "{} is already on the desktop."
+msgstr "{} аль хэдийн ширээний компьютер дээр байна."
+
+msgid "Copy error: {}"
+msgstr "Хуулах алдаа: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Товчлол үүсгэх алдаа: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Програмын нэр хоосон байж болохгүй."
+
+msgid "Execution command cannot be empty."
+msgstr "Гүйцэтгэх тушаал хоосон байж болохгүй."
+
+msgid "Creation error: {}"
+msgstr "Бүтээлийн алдаа: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ширээний компьютер дээр олдсонгүй."
+
+msgid "{} removed from desktop."
+msgstr "{} ширээний компьютерээс хасагдсан."
+
+msgid "Removal error: {}"
+msgstr "Устгах алдаа: {}"
+
+msgid "Remove from Desktop"
+msgstr "Ширээний компьютерээс устгана уу"
+
+msgid "Remove desktop shortcut"
+msgstr "Ширээний товчлолыг устгана уу"
+
+msgid "Add to Desktop"
+msgstr "Ширээний компьютерт нэмэх"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Ширээний компьютерт товчлол болгон нэмнэ үү"
+
+msgid "Added to Desktop"
+msgstr "Ширээний компьютерт нэмсэн"
+
+msgid "applications added to desktop."
+msgstr "програмууд ширээний компьютерт нэмэгдсэн."
+
+msgid "Application added to desktop."
+msgstr "Програмыг ширээний компьютерт нэмсэн."
+
+msgid "Warning"
+msgstr "Анхааруулга"
+
+msgid "Removed from Desktop"
+msgstr "Ширээний компьютерээс устгасан"
+
+msgid "Shortcut removed from desktop."
+msgstr "Товчлолыг ширээний компьютерээс устгасан."
+

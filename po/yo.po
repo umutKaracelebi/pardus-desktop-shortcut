@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Yoruba\n"
+"Language: yo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ko ri."
+
+msgid "Only .desktop files are supported."
+msgstr "Awọn faili tabili tabili nikan ni atilẹyin."
+
+msgid "{} is already on the desktop."
+msgstr "{} ti wa lori deskitọpu tẹlẹ."
+
+msgid "Copy error: {}"
+msgstr "Aṣiṣe daakọ: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Aṣiṣe ẹda ọna abuja: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Orukọ ohun elo ko le jẹ ofo."
+
+msgid "Execution command cannot be empty."
+msgstr "Aṣẹ ipaniyan ko le jẹ ofo."
+
+msgid "Creation error: {}"
+msgstr "Aṣiṣe ẹda: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "A ko ri {} lori tabili tabili."
+
+msgid "{} removed from desktop."
+msgstr "{} kuro ni tabili tabili."
+
+msgid "Removal error: {}"
+msgstr "Aṣiṣe yiyọ kuro: {}"
+
+msgid "Remove from Desktop"
+msgstr "Yọ kuro lati Ojú-iṣẹ"
+
+msgid "Remove desktop shortcut"
+msgstr "Yọ ọna abuja tabili kuro"
+
+msgid "Add to Desktop"
+msgstr "Fi si Ojú-iṣẹ"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Ṣafikun si tabili tabili bi ọna abuja kan"
+
+msgid "Added to Desktop"
+msgstr "Fi kun si Ojú-iṣẹ"
+
+msgid "applications added to desktop."
+msgstr "ohun elo kun si tabili."
+
+msgid "Application added to desktop."
+msgstr "Ohun elo kun si tabili."
+
+msgid "Warning"
+msgstr "Ikilo"
+
+msgid "Removed from Desktop"
+msgstr "Yọ kuro lati Ojú-iṣẹ"
+
+msgid "Shortcut removed from desktop."
+msgstr "Ọna abuja kuro lati tabili tabili."
+

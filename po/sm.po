@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Samoan\n"
+"Language: sm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} e lei maua."
+
+msgid "Only .desktop files are supported."
+msgstr "Na'o .desktop faila e lagolagoina."
+
+msgid "{} is already on the desktop."
+msgstr "{} ua uma ona i luga o le desktop."
+
+msgid "Copy error: {}"
+msgstr "Kopi sese: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Sese faiga ala pupuu: {}"
+
+msgid "Application name cannot be empty."
+msgstr "E le mafai ona gaogao le igoa ole talosaga."
+
+msgid "Execution command cannot be empty."
+msgstr "E le mafai ona gaogao le poloaiga o le faatinoga."
+
+msgid "Creation error: {}"
+msgstr "Faia mea sese: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} e le'i maua i luga o le desktop."
+
+msgid "{} removed from desktop."
+msgstr "{} aveese mai le desktop."
+
+msgid "Removal error: {}"
+msgstr "Aveese sese: {}"
+
+msgid "Remove from Desktop"
+msgstr "Aveese mai Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Aveese le ala pupuu o le desktop"
+
+msgid "Add to Desktop"
+msgstr "Fa'aopoopo ile Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Fa'aopoopo ile desktop e fai ma ala 'alo"
+
+msgid "Added to Desktop"
+msgstr "Fa'aopoopo ile Desktop"
+
+msgid "applications added to desktop."
+msgstr "talosaga fa'aopoopo ile desktop."
+
+msgid "Application added to desktop."
+msgstr "Fa'aopoopo le talosaga ile desktop."
+
+msgid "Warning"
+msgstr "Lapataiga"
+
+msgid "Removed from Desktop"
+msgstr "Ave'ese mai Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Aveese le ala pupuu mai le desktop."
+

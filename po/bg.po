@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Bulgarian\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} не е намерено."
+
+msgid "Only .desktop files are supported."
+msgstr "Поддържат се само .desktop файлове."
+
+msgid "{} is already on the desktop."
+msgstr "{} вече е на работния плот."
+
+msgid "Copy error: {}"
+msgstr "Грешка при копиране: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Грешка при създаването на пряк път: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Името на приложението не може да бъде празно."
+
+msgid "Execution command cannot be empty."
+msgstr "Командата за изпълнение не може да бъде празна."
+
+msgid "Creation error: {}"
+msgstr "Грешка при създаването: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} не беше намерен на работния плот."
+
+msgid "{} removed from desktop."
+msgstr "{} премахнати от работния плот."
+
+msgid "Removal error: {}"
+msgstr "Грешка при премахване: {}"
+
+msgid "Remove from Desktop"
+msgstr "Премахване от работния плот"
+
+msgid "Remove desktop shortcut"
+msgstr "Премахнете пряк път на работния плот"
+
+msgid "Add to Desktop"
+msgstr "Добавяне към работния плот"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Добавете към работния плот като пряк път"
+
+msgid "Added to Desktop"
+msgstr "Добавено към работния плот"
+
+msgid "applications added to desktop."
+msgstr "приложения, добавени към работния плот."
+
+msgid "Application added to desktop."
+msgstr "Приложението е добавено към работния плот."
+
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgid "Removed from Desktop"
+msgstr "Премахнато от работния плот"
+
+msgid "Shortcut removed from desktop."
+msgstr "Прекият път е премахнат от работния плот."
+

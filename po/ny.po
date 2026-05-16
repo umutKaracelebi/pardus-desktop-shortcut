@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Chichewa\n"
+"Language: ny\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} sinapezeke."
+
+msgid "Only .desktop files are supported."
+msgstr "Mafayilo a .desktop okha ndi omwe amathandizidwa."
+
+msgid "{} is already on the desktop."
+msgstr "{} ili kale pakompyuta."
+
+msgid "Copy error: {}"
+msgstr "Koperani cholakwika: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Vuto lopanga njira yachidule: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Dzina la pulogalamu silingakhale lopanda kanthu."
+
+msgid "Execution command cannot be empty."
+msgstr "Lamulo lokonzekera silingakhale lopanda kanthu."
+
+msgid "Creation error: {}"
+msgstr "Cholakwika pakulenga: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} sichinapezeke pakompyuta."
+
+msgid "{} removed from desktop."
+msgstr "{} zachotsedwa pakompyuta."
+
+msgid "Removal error: {}"
+msgstr "Cholakwika chochotsa: {}"
+
+msgid "Remove from Desktop"
+msgstr "Chotsani pa Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Chotsani njira yachidule ya pakompyuta"
+
+msgid "Add to Desktop"
+msgstr "Onjezani ku Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Onjezani ku desktop ngati njira yachidule"
+
+msgid "Added to Desktop"
+msgstr "Zowonjezedwa ku Desktop"
+
+msgid "applications added to desktop."
+msgstr "mapulogalamu awonjezedwa pa desktop."
+
+msgid "Application added to desktop."
+msgstr "Ntchito yawonjezedwa pa desktop."
+
+msgid "Warning"
+msgstr "Chenjezo"
+
+msgid "Removed from Desktop"
+msgstr "Zachotsedwa pa Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Njira yachidule yachotsedwa pakompyuta."
+

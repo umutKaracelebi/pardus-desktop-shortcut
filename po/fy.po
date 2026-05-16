@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Frisian\n"
+"Language: fy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} net fûn."
+
+msgid "Only .desktop files are supported."
+msgstr "Allinnich .desktop-bestannen wurde stipe."
+
+msgid "{} is already on the desktop."
+msgstr "{} stiet al op it buroblêd."
+
+msgid "Copy error: {}"
+msgstr "Kopiearje flater: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Flater oanmeitsjen fan fluchtoetsen: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Applikaasjenamme kin net leech wêze."
+
+msgid "Execution command cannot be empty."
+msgstr "Utfier kommando kin net leech wêze."
+
+msgid "Creation error: {}"
+msgstr "Oanmeitsjen flater: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} is net fûn op it buroblêd."
+
+msgid "{} removed from desktop."
+msgstr "{} fuortsmiten fan buroblêd."
+
+msgid "Removal error: {}"
+msgstr "Fuortsmite flater: {}"
+
+msgid "Remove from Desktop"
+msgstr "Fuortsmite fan buroblêd"
+
+msgid "Remove desktop shortcut"
+msgstr "Fuortsmite buroblêd fluchtoets"
+
+msgid "Add to Desktop"
+msgstr "Taheakje oan buroblêd"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Taheakje oan buroblêd as fluchtoets"
+
+msgid "Added to Desktop"
+msgstr "Taheakke oan buroblêd"
+
+msgid "applications added to desktop."
+msgstr "applikaasjes tafoege oan buroblêd."
+
+msgid "Application added to desktop."
+msgstr "Applikaasje tafoege oan buroblêd."
+
+msgid "Warning"
+msgstr "Warskôging"
+
+msgid "Removed from Desktop"
+msgstr "Fuortsmite fan buroblêd"
+
+msgid "Shortcut removed from desktop."
+msgstr "Fluchtoets fuortsmiten fan buroblêd."
+

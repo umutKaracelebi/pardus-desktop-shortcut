@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Corsican\n"
+"Language: co\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} micca trovu."
+
+msgid "Only .desktop files are supported."
+msgstr "Solu i schedari .desktop sò supportati."
+
+msgid "{} is already on the desktop."
+msgstr "{} hè digià nantu à u desktop."
+
+msgid "Copy error: {}"
+msgstr "Errore di copia: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Errore di creazione di shortcut: {}"
+
+msgid "Application name cannot be empty."
+msgstr "U nome di l'applicazione ùn pò micca esse viotu."
+
+msgid "Execution command cannot be empty."
+msgstr "U cumandamentu di esecuzione ùn pò esse viotu."
+
+msgid "Creation error: {}"
+msgstr "Errore di creazione: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ùn hè statu trovu nant'à u desktop."
+
+msgid "{} removed from desktop."
+msgstr "{} eliminatu da u desktop."
+
+msgid "Removal error: {}"
+msgstr "Errore di rimuzione: {}"
+
+msgid "Remove from Desktop"
+msgstr "Eliminate da u Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Eliminate u scurciatu di u desktop"
+
+msgid "Add to Desktop"
+msgstr "Add to Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Aghjunghjite à u desktop cum'è una scurciatoia"
+
+msgid "Added to Desktop"
+msgstr "Aggiuntu à u Desktop"
+
+msgid "applications added to desktop."
+msgstr "applicazioni aghjunte à u desktop."
+
+msgid "Application added to desktop."
+msgstr "Applicazione aghjunta à u desktop."
+
+msgid "Warning"
+msgstr "Attenzione"
+
+msgid "Removed from Desktop"
+msgstr "Eliminatu da u Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Shortcut eliminatu da u desktop."
+

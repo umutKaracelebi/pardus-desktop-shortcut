@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Xhosa\n"
+"Language: xh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ayifunyanwa."
+
+msgid "Only .desktop files are supported."
+msgstr "Kuphela ziifayile zedesktop ezixhaswayo."
+
+msgid "{} is already on the desktop."
+msgstr "{} sele ikwidesktop."
+
+msgid "Copy error: {}"
+msgstr "Impazamo yokukopa: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Impazamo yokudala indlela emfutshane: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Igama lesicelo alinakungabi nanto."
+
+msgid "Execution command cannot be empty."
+msgstr "Umyalelo wophumezo awunakungabi nanto."
+
+msgid "Creation error: {}"
+msgstr "Impazamo yokudala: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ayifunyanwanga kwi-desktop."
+
+msgid "{} removed from desktop."
+msgstr "{} isusiwe kwi-desktop."
+
+msgid "Removal error: {}"
+msgstr "Impazamo yokususa: {}"
+
+msgid "Remove from Desktop"
+msgstr "Susa kwiDesktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Susa indlela emfutshane yedesktop"
+
+msgid "Add to Desktop"
+msgstr "Yongeza kwiDesktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Yongeza kwidesktop njengendlela emfutshane"
+
+msgid "Added to Desktop"
+msgstr "Yongezwe kwiDesktop"
+
+msgid "applications added to desktop."
+msgstr "izicelo ezongeziweyo kwi desktop."
+
+msgid "Application added to desktop."
+msgstr "Isicelo songezwe kwi-desktop."
+
+msgid "Warning"
+msgstr "Isilumkiso"
+
+msgid "Removed from Desktop"
+msgstr "Isusiwe kwiDesktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Indlela emfutshane isusiwe kwidesktop."
+

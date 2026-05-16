@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Slovenian\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ni bilo mogoče najti."
+
+msgid "Only .desktop files are supported."
+msgstr "Podprte so samo datoteke .desktop."
+
+msgid "{} is already on the desktop."
+msgstr "{} je že na namizju."
+
+msgid "Copy error: {}"
+msgstr "Napaka pri kopiranju: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Napaka pri ustvarjanju bližnjice: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Ime aplikacije ne sme biti prazno."
+
+msgid "Execution command cannot be empty."
+msgstr "Ukaz za izvedbo ne sme biti prazen."
+
+msgid "Creation error: {}"
+msgstr "Napaka pri ustvarjanju: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ni bilo mogoče najti na namizju."
+
+msgid "{} removed from desktop."
+msgstr "{} odstranjen z namizja."
+
+msgid "Removal error: {}"
+msgstr "Napaka pri odstranitvi: {}"
+
+msgid "Remove from Desktop"
+msgstr "Odstrani z namizja"
+
+msgid "Remove desktop shortcut"
+msgstr "Odstrani bližnjico na namizju"
+
+msgid "Add to Desktop"
+msgstr "Dodaj na namizje"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Dodaj na namizje kot bližnjico"
+
+msgid "Added to Desktop"
+msgstr "Dodano na namizje"
+
+msgid "applications added to desktop."
+msgstr "aplikacij, dodanih na namizje."
+
+msgid "Application added to desktop."
+msgstr "Aplikacija dodana na namizje."
+
+msgid "Warning"
+msgstr "Opozorilo"
+
+msgid "Removed from Desktop"
+msgstr "Odstranjeno z namizja"
+
+msgid "Shortcut removed from desktop."
+msgstr "Bližnjica odstranjena z namizja."
+

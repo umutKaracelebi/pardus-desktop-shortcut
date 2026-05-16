@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Yiddish\n"
+"Language: yi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ניט געפונען."
+
+msgid "Only .desktop files are supported."
+msgstr "בלויז .דעסקטאַפּ טעקעס זענען געשטיצט."
+
+msgid "{} is already on the desktop."
+msgstr "{} איז שוין אויף די דעסקטאַפּ."
+
+msgid "Copy error: {}"
+msgstr "קאָפּי טעות: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "דורכוועג שאַפונג טעות: {}"
+
+msgid "Application name cannot be empty."
+msgstr "אַפּפּליקאַטיאָן נאָמען קען נישט זיין ליידיק."
+
+msgid "Execution command cannot be empty."
+msgstr "דורכפירונג באַפֿעל קען נישט זיין ליידיק."
+
+msgid "Creation error: {}"
+msgstr "שאַפונג טעות: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} איז ניט געפונען אויף די דעסקטאַפּ."
+
+msgid "{} removed from desktop."
+msgstr "{} אַוועקגענומען פון דעסקטאַפּ."
+
+msgid "Removal error: {}"
+msgstr "באַזייַטיקונג טעות: {}"
+
+msgid "Remove from Desktop"
+msgstr "אַראָפּנעמען פון דעסקטאָפּ"
+
+msgid "Remove desktop shortcut"
+msgstr "אַראָפּנעמען דעסקטאַפּ דורכוועג"
+
+msgid "Add to Desktop"
+msgstr "לייג צו דעסקטאָפּ"
+
+msgid "Add to desktop as a shortcut"
+msgstr "לייג צו דעסקטאַפּ ווי אַ דורכוועג"
+
+msgid "Added to Desktop"
+msgstr "צוגעגעבן צו דעסקטאָפּ"
+
+msgid "applications added to desktop."
+msgstr "אַפּלאַקיישאַנז צוגעגעבן צו דעסקטאַפּ."
+
+msgid "Application added to desktop."
+msgstr "אַפּפּליקאַטיאָן צוגעגעבן צו דעסקטאַפּ."
+
+msgid "Warning"
+msgstr "ווארענונג"
+
+msgid "Removed from Desktop"
+msgstr "אַוועקגענומען פון דעסקטאָפּ"
+
+msgid "Shortcut removed from desktop."
+msgstr "דורכוועג אַוועקגענומען פון דעסקטאַפּ."
+

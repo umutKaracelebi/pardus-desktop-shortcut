@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Catalan\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} no s'ha trobat."
+
+msgid "Only .desktop files are supported."
+msgstr "Només s'admeten fitxers .desktop."
+
+msgid "{} is already on the desktop."
+msgstr "{} ja és a l'escriptori."
+
+msgid "Copy error: {}"
+msgstr "Error de còpia: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Error de creació de dreceres: {}"
+
+msgid "Application name cannot be empty."
+msgstr "El nom de l'aplicació no pot estar buit."
+
+msgid "Execution command cannot be empty."
+msgstr "L'ordre d'execució no pot estar buida."
+
+msgid "Creation error: {}"
+msgstr "Error de creació: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "No s'ha trobat {} a l'escriptori."
+
+msgid "{} removed from desktop."
+msgstr "S'ha eliminat {} de l'escriptori."
+
+msgid "Removal error: {}"
+msgstr "Error d'eliminació: {}"
+
+msgid "Remove from Desktop"
+msgstr "Elimina de l'escriptori"
+
+msgid "Remove desktop shortcut"
+msgstr "Elimina la drecera de l'escriptori"
+
+msgid "Add to Desktop"
+msgstr "Afegeix a l'escriptori"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Afegeix a l'escriptori com a drecera"
+
+msgid "Added to Desktop"
+msgstr "S'ha afegit a l'escriptori"
+
+msgid "applications added to desktop."
+msgstr "aplicacions afegides a l'escriptori."
+
+msgid "Application added to desktop."
+msgstr "S'ha afegit l'aplicació a l'escriptori."
+
+msgid "Warning"
+msgstr "Avís"
+
+msgid "Removed from Desktop"
+msgstr "S'ha eliminat de l'escriptori"
+
+msgid "Shortcut removed from desktop."
+msgstr "S'ha eliminat la drecera de l'escriptori."
+

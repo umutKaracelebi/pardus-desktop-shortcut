@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Luxembourgish\n"
+"Language: lb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} net fonnt."
+
+msgid "Only .desktop files are supported."
+msgstr "Nëmmen .desktop Dateien ginn ënnerstëtzt."
+
+msgid "{} is already on the desktop."
+msgstr "{} ass schonn um Desktop."
+
+msgid "Copy error: {}"
+msgstr "Kopie Feeler: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Ofkierzungsfehler: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Applikatioun Numm kann net eidel ginn."
+
+msgid "Execution command cannot be empty."
+msgstr "Ausféierung Kommando kann net eidel ginn."
+
+msgid "Creation error: {}"
+msgstr "Erstellt Feeler: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} gouf net um Desktop fonnt."
+
+msgid "{} removed from desktop."
+msgstr "{} vum Desktop geläscht."
+
+msgid "Removal error: {}"
+msgstr "Ewechhuele Feeler: {}"
+
+msgid "Remove from Desktop"
+msgstr "Ewechzehuelen vum Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Ewechzehuelen Desktop Ofkiirzung"
+
+msgid "Add to Desktop"
+msgstr "Füügt op Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Füügt op Desktop als Ofkiirzung"
+
+msgid "Added to Desktop"
+msgstr "Op Desktop bäigefüügt"
+
+msgid "applications added to desktop."
+msgstr "Uwendungen op Desktop dobäigesat."
+
+msgid "Application added to desktop."
+msgstr "Applikatioun op Desktop bäigefüügt."
+
+msgid "Warning"
+msgstr "Warnung"
+
+msgid "Removed from Desktop"
+msgstr "Vum Desktop geläscht"
+
+msgid "Shortcut removed from desktop."
+msgstr "Ofkiirzung vum Desktop geläscht."
+

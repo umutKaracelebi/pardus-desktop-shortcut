@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Latin\n"
+"Language: la\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} not found."
+
+msgid "Only .desktop files are supported."
+msgstr "Tantum .desktop lima sustentantur."
+
+msgid "{} is already on the desktop."
+msgstr "{} iam in escritorio est."
+
+msgid "Copy error: {}"
+msgstr "Error effingo: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Brevis creatio error: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Applicatio nominis vacua esse non potest."
+
+msgid "Execution command cannot be empty."
+msgstr "Executio mandatum vacuum esse non potest."
+
+msgid "Creation error: {}"
+msgstr "Error creation: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} in escritorio non inventa est."
+
+msgid "{} removed from desktop."
+msgstr "{} e desktop remotum."
+
+msgid "Removal error: {}"
+msgstr "Error remotio: {}"
+
+msgid "Remove from Desktop"
+msgstr "Aufer a Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Remove desktop brevis"
+
+msgid "Add to Desktop"
+msgstr "Add to Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Add to desktop as a shortcut"
+
+msgid "Added to Desktop"
+msgstr "Addidit Desktop"
+
+msgid "applications added to desktop."
+msgstr "applicationes ad desktop additae."
+
+msgid "Application added to desktop."
+msgstr "Applicatio ad desktop addita."
+
+msgid "Warning"
+msgstr "Monitum"
+
+msgid "Removed from Desktop"
+msgstr "Remoto a Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Brevis a desktop remotus."
+

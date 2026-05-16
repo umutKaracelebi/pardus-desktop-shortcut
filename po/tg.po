@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Tajik\n"
+"Language: tg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} дарёфт нашуд."
+
+msgid "Only .desktop files are supported."
+msgstr "Танҳо файлҳои .desktop дастгирӣ мешаванд."
+
+msgid "{} is already on the desktop."
+msgstr "{} аллакай дар мизи корӣ ҷойгир аст."
+
+msgid "Copy error: {}"
+msgstr "Хатои нусхабардорӣ: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Хатогии эҷоди миёнабур: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Номи барнома наметавонад холӣ бошад."
+
+msgid "Execution command cannot be empty."
+msgstr "Фармони иҷро наметавонад холӣ бошад."
+
+msgid "Creation error: {}"
+msgstr "Хатои эҷод: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} дар мизи корӣ ёфт нашуд."
+
+msgid "{} removed from desktop."
+msgstr "{} аз мизи корӣ хориҷ карда шуд."
+
+msgid "Removal error: {}"
+msgstr "Хатогии несткунӣ: {}"
+
+msgid "Remove from Desktop"
+msgstr "Аз мизи корӣ хориҷ кунед"
+
+msgid "Remove desktop shortcut"
+msgstr "Миёнабури мизи кориро хориҷ кунед"
+
+msgid "Add to Desktop"
+msgstr "Илова ба мизи корӣ"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Ба мизи корӣ ҳамчун миёнабур илова кунед"
+
+msgid "Added to Desktop"
+msgstr "Ба мизи корӣ илова карда шуд"
+
+msgid "applications added to desktop."
+msgstr "барномаҳо ба мизи корӣ илова карда шуданд."
+
+msgid "Application added to desktop."
+msgstr "Барнома ба мизи корӣ илова карда шуд."
+
+msgid "Warning"
+msgstr "Огоҳӣ"
+
+msgid "Removed from Desktop"
+msgstr "Аз мизи корӣ хориҷ карда шуд"
+
+msgid "Shortcut removed from desktop."
+msgstr "Миёнабур аз мизи корӣ хориҷ карда шуд."
+

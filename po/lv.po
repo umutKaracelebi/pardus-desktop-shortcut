@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Latvian\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} nav atrasts."
+
+msgid "Only .desktop files are supported."
+msgstr "Tiek atbalstīti tikai .desktop faili."
+
+msgid "{} is already on the desktop."
+msgstr "{} jau ir darbvirsmā."
+
+msgid "Copy error: {}"
+msgstr "Kopēšanas kļūda: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Saīsnes izveides kļūda: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Lietojumprogrammas nosaukuma lauks nedrīkst būt tukšs."
+
+msgid "Execution command cannot be empty."
+msgstr "Izpildes komandas lauks nedrīkst būt tukšs."
+
+msgid "Creation error: {}"
+msgstr "Izveidošanas kļūda: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} netika atrasts darbvirsmā."
+
+msgid "{} removed from desktop."
+msgstr "{} noņemts no darbvirsmas."
+
+msgid "Removal error: {}"
+msgstr "Noņemšanas kļūda: {}"
+
+msgid "Remove from Desktop"
+msgstr "Noņemt no darbvirsmas"
+
+msgid "Remove desktop shortcut"
+msgstr "Noņemiet darbvirsmas saīsni"
+
+msgid "Add to Desktop"
+msgstr "Pievienot darbvirsmai"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Pievienot darbvirsmai kā saīsni"
+
+msgid "Added to Desktop"
+msgstr "Pievienots darbvirsmai"
+
+msgid "applications added to desktop."
+msgstr "lietojumprogrammas, kas pievienotas darbvirsmai."
+
+msgid "Application added to desktop."
+msgstr "Lietojumprogramma ir pievienota darbvirsmai."
+
+msgid "Warning"
+msgstr "Brīdinājums"
+
+msgid "Removed from Desktop"
+msgstr "Noņemts no darbvirsmas"
+
+msgid "Shortcut removed from desktop."
+msgstr "Saīsne ir noņemta no darbvirsmas."
+

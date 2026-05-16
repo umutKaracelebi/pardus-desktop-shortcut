@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Malagasy\n"
+"Language: mg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} tsy hita."
+
+msgid "Only .desktop files are supported."
+msgstr "Ny rakitra .desktop ihany no tohanana."
+
+msgid "{} is already on the desktop."
+msgstr "{} dia efa eo amin'ny biraonao."
+
+msgid "Copy error: {}"
+msgstr "Hadisoana dika mitovy: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Hadisoana famoronana hitsin-dàlana: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Tsy azo foanana ny anaran'ny fampiharana."
+
+msgid "Execution command cannot be empty."
+msgstr "Tsy azo atao foana ny baiko famonoana."
+
+msgid "Creation error: {}"
+msgstr "Hadisoana famoronana: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} dia tsy hita teo amin'ny birao."
+
+msgid "{} removed from desktop."
+msgstr "{} nesorina tamin'ny biraonao."
+
+msgid "Removal error: {}"
+msgstr "Fahadisoana fanesorana: {}"
+
+msgid "Remove from Desktop"
+msgstr "Esory amin'ny Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Esory ny hitsin-dàlana desktop"
+
+msgid "Add to Desktop"
+msgstr "Ampio amin'ny Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Ampio amin'ny desktop ho hitsin-dàlana"
+
+msgid "Added to Desktop"
+msgstr "Nampidirina amin'ny Desktop"
+
+msgid "applications added to desktop."
+msgstr "fampiharana ampiana amin'ny desktop."
+
+msgid "Application added to desktop."
+msgstr "Ampidirina amin'ny desktop."
+
+msgid "Warning"
+msgstr "FAMPITANDREMANA"
+
+msgid "Removed from Desktop"
+msgstr "Nesorina tamin'ny Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Nesorina tamin'ny desktop."
+

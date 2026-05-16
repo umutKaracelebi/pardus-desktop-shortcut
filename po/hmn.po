@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Hmong\n"
+"Language: hmn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} tsis pom."
+
+msgid "Only .desktop files are supported."
+msgstr "Tsuas yog .desktop cov ntaub ntawv txaus siab."
+
+msgid "{} is already on the desktop."
+msgstr "{} twb nyob rau ntawm lub desktop."
+
+msgid "Copy error: {}"
+msgstr "Copy yuam kev: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Shortcut creation yuam kev: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Lub npe ntawm daim ntawv thov tsis tuaj yeem yog qhov khoob."
+
+msgid "Execution command cannot be empty."
+msgstr "Execution hais kom ua tsis tuaj yeem khoob."
+
+msgid "Creation error: {}"
+msgstr "Tsim yuam kev: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} tsis pom ntawm lub desktop."
+
+msgid "{} removed from desktop."
+msgstr "{} tshem tawm ntawm lub desktop."
+
+msgid "Removal error: {}"
+msgstr "Kev tshem tawm yuam kev: {}"
+
+msgid "Remove from Desktop"
+msgstr "Tshem tawm ntawm Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Tshem tawm lub desktop shortcut"
+
+msgid "Add to Desktop"
+msgstr "Ntxiv rau Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Ntxiv rau lub desktop ua ib qho shortcut"
+
+msgid "Added to Desktop"
+msgstr "Ntxiv rau Desktop"
+
+msgid "applications added to desktop."
+msgstr "cov ntawv thov ntxiv rau desktop."
+
+msgid "Application added to desktop."
+msgstr "Daim ntawv thov ntxiv rau desktop."
+
+msgid "Warning"
+msgstr "Ceeb toom"
+
+msgid "Removed from Desktop"
+msgstr "Tshem tawm ntawm Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Shortcut tshem tawm ntawm desktop."
+

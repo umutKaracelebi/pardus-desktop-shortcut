@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Sinhala\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} හමු වුණේ නැහැ."
+
+msgid "Only .desktop files are supported."
+msgstr ".desktop ගොනු පමණක් සහය දක්වයි."
+
+msgid "{} is already on the desktop."
+msgstr "{} දැනටමත් ඩෙස්ක්ටොප් එකේ ඇත."
+
+msgid "Copy error: {}"
+msgstr "පිටපත් කිරීමේ දෝෂය: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "කෙටිමං සෑදීමේ දෝෂය: {}"
+
+msgid "Application name cannot be empty."
+msgstr "යෙදුමේ නම හිස් විය නොහැක."
+
+msgid "Execution command cannot be empty."
+msgstr "ක්රියාත්මක කිරීමේ විධානය හිස් විය නොහැක."
+
+msgid "Creation error: {}"
+msgstr "නිර්මාණ දෝෂය: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} ඩෙස්ක්ටොප් එකේ හමු නොවීය."
+
+msgid "{} removed from desktop."
+msgstr "{} ඩෙස්ක්ටොප් එකෙන් ඉවත් කරන ලදී."
+
+msgid "Removal error: {}"
+msgstr "ඉවත් කිරීමේ දෝෂය: {}"
+
+msgid "Remove from Desktop"
+msgstr "ඩෙස්ක්ටොප් එකෙන් ඉවත් කරන්න"
+
+msgid "Remove desktop shortcut"
+msgstr "ඩෙස්ක්ටොප් කෙටිමං ඉවත් කරන්න"
+
+msgid "Add to Desktop"
+msgstr "ඩෙස්ක්ටොප් එකට එකතු කරන්න"
+
+msgid "Add to desktop as a shortcut"
+msgstr "කෙටිමඟක් ලෙස ඩෙස්ක්ටොප් එකට එක් කරන්න"
+
+msgid "Added to Desktop"
+msgstr "ඩෙස්ක්ටොප් එකට එකතු කරන ලදී"
+
+msgid "applications added to desktop."
+msgstr "යෙදුම් ඩෙස්ක්ටොප් එකට එකතු කරන ලදී."
+
+msgid "Application added to desktop."
+msgstr "යෙදුම ඩෙස්ක්ටොප් එකට එකතු කරන ලදී."
+
+msgid "Warning"
+msgstr "අවවාදයයි"
+
+msgid "Removed from Desktop"
+msgstr "ඩෙස්ක්ටොප් එකෙන් ඉවත් කරන ලදී"
+
+msgid "Shortcut removed from desktop."
+msgstr "කෙටිමඟ ඩෙස්ක්ටොප් එකෙන් ඉවත් කර ඇත."
+

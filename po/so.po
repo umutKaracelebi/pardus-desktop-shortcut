@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Somali\n"
+"Language: so\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} lama helin"
+
+msgid "Only .desktop files are supported."
+msgstr "Kaliya faylasha .Desktop ayaa la taageerayaa."
+
+msgid "{} is already on the desktop."
+msgstr "{} waa horeba miiska saaran"
+
+msgid "Copy error: {}"
+msgstr "Cilad nuqul ka ah: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Khaladka abuurista gaaban: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Magaca codsigu ma noqon karo maran"
+
+msgid "Execution command cannot be empty."
+msgstr "Amarka fulinta ma noqon karo madhan."
+
+msgid "Creation error: {}"
+msgstr "Khaladka abuurista: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} lagama helin miiska."
+
+msgid "{} removed from desktop."
+msgstr "{} laga saaray miiska"
+
+msgid "Removal error: {}"
+msgstr "Cilad saarista: {}"
+
+msgid "Remove from Desktop"
+msgstr "Ka saar Desktop"
+
+msgid "Remove desktop shortcut"
+msgstr "Ka saar miiska gaaban"
+
+msgid "Add to Desktop"
+msgstr "Kudar Desktop"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Ku dar desktop-ka si gaaban"
+
+msgid "Added to Desktop"
+msgstr "Lagu daray Desktop"
+
+msgid "applications added to desktop."
+msgstr "codsiyada lagu daray desktop."
+
+msgid "Application added to desktop."
+msgstr "Codsiga ayaa lagu daray miiska"
+
+msgid "Warning"
+msgstr "Digniin"
+
+msgid "Removed from Desktop"
+msgstr "Laga saaray Desktop"
+
+msgid "Shortcut removed from desktop."
+msgstr "Jidka gaaban ayaa laga saaray miiska"
+

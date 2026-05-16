@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Icelandic\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} fannst ekki."
+
+msgid "Only .desktop files are supported."
+msgstr "Aðeins .desktop skrár eru studdar."
+
+msgid "{} is already on the desktop."
+msgstr "{} er nú þegar á skjáborðinu."
+
+msgid "Copy error: {}"
+msgstr "Afritunarvilla: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Villa við að búa til flýtileið: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Nafn forrits má ekki vera autt."
+
+msgid "Execution command cannot be empty."
+msgstr "Framkvæmdaskipun má ekki vera tóm."
+
+msgid "Creation error: {}"
+msgstr "Myndunarvilla: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} fannst ekki á skjáborðinu."
+
+msgid "{} removed from desktop."
+msgstr "{} fjarlægður af skjáborðinu."
+
+msgid "Removal error: {}"
+msgstr "Villa við að fjarlægja: {}"
+
+msgid "Remove from Desktop"
+msgstr "Fjarlægja af skjáborðinu"
+
+msgid "Remove desktop shortcut"
+msgstr "Fjarlægðu flýtileið á skjáborðinu"
+
+msgid "Add to Desktop"
+msgstr "Bæta við skjáborð"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Bættu við skjáborðið sem flýtileið"
+
+msgid "Added to Desktop"
+msgstr "Bætt við skjáborð"
+
+msgid "applications added to desktop."
+msgstr "forritum bætt við skjáborðið."
+
+msgid "Application added to desktop."
+msgstr "Forriti bætt við skjáborðið."
+
+msgid "Warning"
+msgstr "Viðvörun"
+
+msgid "Removed from Desktop"
+msgstr "Fjarlægt af skjáborði"
+
+msgid "Shortcut removed from desktop."
+msgstr "Flýtileið fjarlægð af skjáborði."
+

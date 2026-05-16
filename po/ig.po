@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Igbo\n"
+"Language: ig\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ahụghị."
+
+msgid "Only .desktop files are supported."
+msgstr "Naanị faịlụ desktọpụ ka akwadoro."
+
+msgid "{} is already on the desktop."
+msgstr "{} adịlarị na desktọpụ."
+
+msgid "Copy error: {}"
+msgstr "Detuo mperi: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Njehie imepụta ụzọ mkpirisi: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Aha ngwa enweghị ike ịbụ ihe efu."
+
+msgid "Execution command cannot be empty."
+msgstr "Iwu mkpochapụ enweghị ike ịbụ ihe efu."
+
+msgid "Creation error: {}"
+msgstr "Njehie okike: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "ahụghị {} na desktọpụ."
+
+msgid "{} removed from desktop."
+msgstr "{} wepụrụ na desktọpụ."
+
+msgid "Removal error: {}"
+msgstr "Njehie mwepụ: {}"
+
+msgid "Remove from Desktop"
+msgstr "Wepu na Desktọpụ"
+
+msgid "Remove desktop shortcut"
+msgstr "Wepu ụzọ mkpirisi desktọpụ"
+
+msgid "Add to Desktop"
+msgstr "Tinye na Desktọpụ"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Tinye na desktọpụ dị ka ụzọ mkpirisi"
+
+msgid "Added to Desktop"
+msgstr "Etinyere na Desktọpụ"
+
+msgid "applications added to desktop."
+msgstr "ngwa agbakwunyere na desktọpụ."
+
+msgid "Application added to desktop."
+msgstr "agbakwunyere ngwa na desktọpụ."
+
+msgid "Warning"
+msgstr "Ịdọ aka ná ntị"
+
+msgid "Removed from Desktop"
+msgstr "Ewepụrụ na Desktọpụ"
+
+msgid "Shortcut removed from desktop."
+msgstr "Ewepụrụ ụzọ mkpirisi na desktọpụ."
+

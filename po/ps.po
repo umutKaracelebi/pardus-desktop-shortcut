@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Pashto\n"
+"Language: ps\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} ونه موندل شو."
+
+msgid "Only .desktop files are supported."
+msgstr "یوازې د ډیسټاپ فایلونه ملاتړ کیږي."
+
+msgid "{} is already on the desktop."
+msgstr "{} لا دمخه په ډیسټاپ کې دی."
+
+msgid "Copy error: {}"
+msgstr "د کاپي تېروتنه: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "د شارټ کټ جوړولو تېروتنه: {}"
+
+msgid "Application name cannot be empty."
+msgstr "د غوښتنلیک نوم خالي نه وي."
+
+msgid "Execution command cannot be empty."
+msgstr "د اجرا کولو قومانده خالي نه وي."
+
+msgid "Creation error: {}"
+msgstr "د جوړولو تېروتنه: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} په ډیسټاپ کې ونه موندل شو."
+
+msgid "{} removed from desktop."
+msgstr "{} له ډیسټاپ څخه لرې شوی."
+
+msgid "Removal error: {}"
+msgstr "د لرې کولو تېروتنه: {}"
+
+msgid "Remove from Desktop"
+msgstr "له ډیسټاپ څخه لرې کړئ"
+
+msgid "Remove desktop shortcut"
+msgstr "د ډیسټاپ شارټ کټ لرې کړئ"
+
+msgid "Add to Desktop"
+msgstr "په ډیسټاپ کې اضافه کړئ"
+
+msgid "Add to desktop as a shortcut"
+msgstr "ډیسټاپ ته د شارټ کټ په توګه اضافه کړئ"
+
+msgid "Added to Desktop"
+msgstr "ډیسټاپ ته اضافه شوی"
+
+msgid "applications added to desktop."
+msgstr "غوښتنلیکونه ډیسټاپ ته اضافه شوي."
+
+msgid "Application added to desktop."
+msgstr "غوښتنلیک ډیسټاپ ته اضافه شوی."
+
+msgid "Warning"
+msgstr "خبرتیا"
+
+msgid "Removed from Desktop"
+msgstr "له ډیسټاپ څخه لرې شوی"
+
+msgid "Shortcut removed from desktop."
+msgstr "شارټ کټ له ډیسټاپ څخه لرې شوی."
+

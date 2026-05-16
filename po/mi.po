@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pardus-desktop-shortcut\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 23:00+0300\n"
+"PO-Revision-Date: 2026-05-16 23:00+0300\n"
+"Last-Translator: Auto-Translator Script\n"
+"Language-Team: Maori\n"
+"Language: mi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "{} not found."
+msgstr "{} kāore i kitea."
+
+msgid "Only .desktop files are supported."
+msgstr "Ko nga konae .papamahi anake e tautokohia ana."
+
+msgid "{} is already on the desktop."
+msgstr "Kei runga kē a {} i te papamahi."
+
+msgid "Copy error: {}"
+msgstr "Hapa tārua: {}"
+
+msgid "Shortcut creation error: {}"
+msgstr "Hapa hanga pokatata: {}"
+
+msgid "Application name cannot be empty."
+msgstr "Ko te ingoa tono kaore e taea te putua."
+
+msgid "Execution command cannot be empty."
+msgstr "Kaore e taea te putua te whakahau whakahaere."
+
+msgid "Creation error: {}"
+msgstr "Hapa hanga: {}"
+
+msgid "{} was not found on the desktop."
+msgstr "{} kāore i kitea i runga i te papamahi."
+
+msgid "{} removed from desktop."
+msgstr "{} i tangohia mai i te papamahi."
+
+msgid "Removal error: {}"
+msgstr "Hapa Tango: {}"
+
+msgid "Remove from Desktop"
+msgstr "Tango mai i te Papamahi"
+
+msgid "Remove desktop shortcut"
+msgstr "Tangohia te pokatata papamahi"
+
+msgid "Add to Desktop"
+msgstr "Tāpiri ki te Papamahi"
+
+msgid "Add to desktop as a shortcut"
+msgstr "Tāpirihia ki te papamahi hei pokatata"
+
+msgid "Added to Desktop"
+msgstr "Kua taapirihia ki te Papamahi"
+
+msgid "applications added to desktop."
+msgstr "tono taapiri ki te papamahi."
+
+msgid "Application added to desktop."
+msgstr "Taupānga tāpiri ki te papamahi."
+
+msgid "Warning"
+msgstr "Whakatupato"
+
+msgid "Removed from Desktop"
+msgstr "Kua tangohia mai i te Papamahi"
+
+msgid "Shortcut removed from desktop."
+msgstr "Kua tangohia te pokatata mai i te papamahi."
+
