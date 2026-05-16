@@ -1,0 +1,12 @@
+# Core kütüphane
+src/desktop_shortcut.py usr/share/pardus/desktop-shortcut/
+
+# CLI aracı
+src/pardus-desktop-shortcut-cli usr/bin/
+
+# Nautilus extension
+nautilus/pardus-desktop-shortcut.py usr/share/nautilus-python/extensions/
+
+# GNOME Shell extension
+gnome-shell-extension/extension.js usr/share/gnome-shell/extensions/pardus-desktop-shortcut@pardus.org.tr/
+gnome-shell-extension/metadata.json usr/share/gnome-shell/extensions/pardus-desktop-shortcut@pardus.org.tr/

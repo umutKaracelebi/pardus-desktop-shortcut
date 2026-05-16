@@ -1,0 +1,11 @@
+pardus-desktop-shortcut (1.0.0-1) unstable; urgency=medium
+
+  * Initial release
+  * Nautilus sağ-tık menüsüne "Masaüstüne Ekle" seçeneği
+  * GNOME Shell uygulama menüsüne "Masaüstüne Ekle" seçeneği
+  * Komut satırı aracı (pardus-desktop-shortcut)
+  * Otomatik "Allow Launching" desteği
+  * XDG Desktop Directory standardı uyumu
+  * Türkçe (Masaüstü) ve İngilizce (Desktop) dizin desteği
+
+ -- Umut Karacelebi <umut@pardus.org.tr>  Fri, 16 May 2026 21:00:00 +0300

@@ -1,0 +1,10 @@
+{
+    "uuid": "pardus-desktop-shortcut@pardus.org.tr",
+    "name": "Pardus Masaüstüne Kısayol Ekle",
+    "description": "GNOME uygulama menüsünde uygulamalara sağ tıklayınca 'Masaüstüne Ekle' seçeneği sunar.",
+    "version": 1,
+    "shell-version": ["42", "43", "44", "45", "46", "47"],
+    "url": "https://github.com/umutKaracelebi/pardus-desktop-shortcut",
+    "settings-schema": "",
+    "gettext-domain": "pardus-desktop-shortcut"
+}
