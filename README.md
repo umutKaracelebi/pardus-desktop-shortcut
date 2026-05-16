@@ -3,8 +3,8 @@
 *(For English, please see [README-en.md](README-en.md))*
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Debian Package](https://img.shields.io/badge/Debian-Package-red.svg)]()
-[![GNOME 48 ESM](https://img.shields.io/badge/GNOME-48_ESM-brightgreen.svg)]()
+[![Debian Package](https://img.shields.io/badge/Debian-Package-red.svg)](https://github.com/umutKaracelebi/pardus-desktop-shortcut/releases/latest)
+[![Geliştirici: İnoTürk](https://img.shields.io/badge/Geliştirici-İnoTürk-purple.svg)](https://inoturk.netlify.app/)
 
 **2026 Teknofest Pardus Hata Yakalama ve Öneri Yarışması — Öneri/Hata Kategorisi için İnoTürk takımı tarafından geliştirilmiştir.**
 

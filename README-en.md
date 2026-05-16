@@ -3,8 +3,8 @@
 *(Türkçe için lütfen [README.md](README.md) dosyasına bakınız)*
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Debian Package](https://img.shields.io/badge/Debian-Package-red.svg)]()
-[![GNOME 48 ESM](https://img.shields.io/badge/GNOME-48_ESM-brightgreen.svg)]()
+[![Debian Package](https://img.shields.io/badge/Debian-Package-red.svg)](https://github.com/umutKaracelebi/pardus-desktop-shortcut/releases/latest)
+[![Developer: InoTurk](https://img.shields.io/badge/Developer-InoTurk-purple.svg)](https://inoturk.netlify.app/)
 
 **Developed by the İnoTürk team for the 2026 Teknofest Pardus Bug Catching and Suggestion Competition — Suggestion/Bug Category.**
 
